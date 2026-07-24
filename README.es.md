@@ -1,0 +1,40 @@
+[English](README.md) · [Русский](README.ru.md) · [Українська](README.uk.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Türkçe](README.tr.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+
+# Sarah's House — Translation Mod
+
+Un mod multilingüe no oficial para Sarah's House (Windows, v0.11.2).
+
+- Sitio web: https://elofaster.github.io/sarahs-house-i18n/
+- Descargar: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
+- Última versión: https://github.com/elofaster/sarahs-house-i18n/releases/latest
+
+## Idiomas
+
+| | Código | Idioma |
+|---|---|---|
+| 🇬🇧 | EN | English (original) |
+| 🇷🇺 | RU | Русский |
+| 🇺🇦 | UK | Українська |
+| 🇩🇪 | DE | Deutsch |
+| 🇪🇸 | ES | Español |
+| 🇫🇷 | FR | Français |
+| 🇵🇹 | PT | Português |
+| 🇹🇷 | TR | Türkçe |
+| 🇨🇳 | ZH | 中文 |
+| 🇯🇵 | JA | 日本語 |
+| 🇰🇷 | KO | 한국어 |
+
+## Instalación
+
+1. Descomprime el archivo de la versión en la carpeta del juego, junto a `SarahsHouse.exe`.
+2. Inicia el juego: el primer arranque puede tardar de 1 a 3 minutos en prepararse.
+3. Elige tu idioma en el panel dentro del juego: pulsa `F10` (o el icono de idioma en la esquina superior derecha).
+
+## Repositorio
+
+- `docs/` — el sitio web (GitHub Pages)
+- `mod/` — el mod en sí: complemento, paquetes de idioma y fuentes
+
+---
+
+Un mod de fans no oficial. Sin afiliación con AceStudio.

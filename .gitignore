@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+releases/
+docs/download/*.zip

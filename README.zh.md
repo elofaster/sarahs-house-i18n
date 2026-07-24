@@ -8,6 +8,13 @@
 - 下载: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
 - 最新版本: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
+## 支持这款游戏
+
+《Sarah's House》是 AceStudio 开发的付费游戏，本模组仅提供翻译。如果你喜欢这款游戏，请购买正版以支持开发者：
+
+- 🛒 Steam — https://store.steampowered.com/app/4712060/Sarahs_House
+- 🎮 itch.io — https://ace-stud.itch.io/sarahs-house
+
 ## 语言
 
 | | 代码 | 语言 |

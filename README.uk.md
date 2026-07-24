@@ -8,6 +8,13 @@
 - Завантажити: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
 - Останній реліз: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
+## Підтримайте гру
+
+Sarah's House — платна гра від студії AceStudio. Цей мод лише перекладає її. Якщо гра вам подобається — придбайте її та підтримайте розробників:
+
+- 🛒 Steam — https://store.steampowered.com/app/4712060/Sarahs_House
+- 🎮 itch.io — https://ace-stud.itch.io/sarahs-house
+
 ## Мови
 
 | | Код | Мова |

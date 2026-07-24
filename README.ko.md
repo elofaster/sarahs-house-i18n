@@ -8,6 +8,13 @@
 - 다운로드: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
 - 최신 릴리스: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
+## 게임을 응원해 주세요
+
+《Sarah's House》는 AceStudio의 유료 게임이며, 이 모드는 번역만 제공합니다. 게임이 마음에 드셨다면 구매하여 개발자를 응원해 주세요:
+
+- 🛒 Steam — https://store.steampowered.com/app/4712060/Sarahs_House
+- 🎮 itch.io — https://ace-stud.itch.io/sarahs-house
+
 ## 언어
 
 | | 코드 | 언어 |

@@ -8,6 +8,13 @@ Ein inoffizieller mehrsprachiger Mod für Sarah's House (Windows, v0.11.2).
 - Download: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
 - Neuestes Release: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
+## Unterstütze das Spiel
+
+Sarah's House ist ein kostenpflichtiges Spiel von AceStudio. Dieser Mod übersetzt es nur — wenn dir das Spiel gefällt, kaufe es und unterstütze die Entwickler:
+
+- 🛒 Steam — https://store.steampowered.com/app/4712060/Sarahs_House
+- 🎮 itch.io — https://ace-stud.itch.io/sarahs-house
+
 ## Sprachen
 
 | | Code | Sprache |

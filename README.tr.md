@@ -8,6 +8,13 @@ Sarah's House için resmi olmayan çok dilli bir mod (Windows, v0.11.2).
 - İndir: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
 - Son sürüm: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
+## Oyunu destekleyin
+
+Sarah's House, AceStudio'nun ücretli bir oyunudur. Bu mod yalnızca onu çevirir — oyunu beğendiyseniz, satın alarak geliştiricileri destekleyin:
+
+- 🛒 Steam — https://store.steampowered.com/app/4712060/Sarahs_House
+- 🎮 itch.io — https://ace-stud.itch.io/sarahs-house
+
 ## Diller
 
 | | Kod | Dil |

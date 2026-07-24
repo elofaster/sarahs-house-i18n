@@ -8,6 +8,13 @@ Um mod multilíngue não oficial para Sarah's House (Windows, v0.11.2).
 - Baixar: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
 - Versão mais recente: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
+## Apoie o jogo
+
+Sarah's House é um jogo pago da AceStudio. Este mod apenas o traduz — se você gosta do jogo, compre-o e apoie os desenvolvedores:
+
+- 🛒 Steam — https://store.steampowered.com/app/4712060/Sarahs_House
+- 🎮 itch.io — https://ace-stud.itch.io/sarahs-house
+
 ## Idiomas
 
 | | Código | Idioma |

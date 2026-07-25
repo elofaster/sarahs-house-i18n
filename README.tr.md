@@ -7,7 +7,7 @@
 Sarah's House için resmi olmayan çok dilli bir mod (Windows, v0.11.2).
 
 - Web sitesi: https://elofaster.github.io/sarahs-house-i18n/
-- İndir: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
+- İndir: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.9.0/SarahsHouse-i18n-v2.9.0.zip
 - Son sürüm: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
 ## Oyunu destekleyin

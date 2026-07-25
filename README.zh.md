@@ -7,7 +7,7 @@
 《Sarah's House》的非官方多语言模组（Windows，v0.11.2）。
 
 - 网站: https://elofaster.github.io/sarahs-house-i18n/
-- 下载: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
+- 下载: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.9.0/SarahsHouse-i18n-v2.9.0.zip
 - 最新版本: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
 ## 支持这款游戏

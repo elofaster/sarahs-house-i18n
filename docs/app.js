@@ -56,7 +56,7 @@
       "contribute.eyebrow": "Правки",
       "contribute.title": "Хотите предложить правки?",
       "contribute.cta": "Предложить правки",
-      "finale.title": "Скачать мод v2.8.9",
+      "finale.title": "Скачать мод v2.9.0",
       "finale.sub": "ZIP · soon · free for everyone",
       "footer.note": "Неофициальный мод. Не связан с AceStudio.",
       "footer.game": "Игра",
@@ -115,7 +115,7 @@
       "contribute.eyebrow": "Contribute",
       "contribute.title": "Want to suggest fixes?",
       "contribute.cta": "Suggest fixes",
-      "finale.title": "Download mod v2.8.9",
+      "finale.title": "Download mod v2.9.0",
       "finale.sub": "ZIP · soon · free for everyone",
       "footer.note": "Unofficial mod. Not affiliated with AceStudio.",
       "footer.game": "Game",
@@ -174,7 +174,7 @@
       "contribute.eyebrow": "Mitwirken",
       "contribute.title": "Korrekturen vorschlagen?",
       "contribute.cta": "Korrektur vorschlagen",
-      "finale.title": "Mod v2.8.9 herunterladen",
+      "finale.title": "Mod v2.9.0 herunterladen",
       "finale.sub": "ZIP · soon · free for everyone",
       "footer.note": "Inoffizieller Mod. Nicht mit AceStudio verbunden.",
       "footer.game": "Spiel",
@@ -233,7 +233,7 @@
       "contribute.eyebrow": "Правки",
       "contribute.title": "Хочете запропонувати правки?",
       "contribute.cta": "Запропонувати правки",
-      "finale.title": "Завантажити мод v2.8.9",
+      "finale.title": "Завантажити мод v2.9.0",
       "finale.sub": "ZIP · soon · free for everyone",
       "footer.note": "Неофіційний мод. Не пов’язаний з AceStudio.",
       "footer.game": "Гра",
@@ -292,7 +292,7 @@
       "contribute.eyebrow": "Aportes",
       "contribute.title": "¿Quieres proponer correcciones?",
       "contribute.cta": "Proponer correcciones",
-      "finale.title": "Descargar mod v2.8.9",
+      "finale.title": "Descargar mod v2.9.0",
       "finale.sub": "ZIP · soon · free for everyone",
       "footer.note": "Mod no oficial. No afiliado a AceStudio.",
       "footer.game": "Juego",
@@ -351,7 +351,7 @@
       "contribute.eyebrow": "Contribuer",
       "contribute.title": "Proposer des corrections ?",
       "contribute.cta": "Proposer des corrections",
-      "finale.title": "Télécharger le mod v2.8.9",
+      "finale.title": "Télécharger le mod v2.9.0",
       "finale.sub": "ZIP · soon · free for everyone",
       "footer.note": "Mod non officiel. Non affilié à AceStudio.",
       "footer.game": "Jeu",
@@ -415,7 +415,7 @@
       "contribute.eyebrow": "贡献",
       "contribute.title": "想提出修改建议？",
       "contribute.cta": "提交修改",
-      "finale.title": "下载模组 v2.8.9",
+      "finale.title": "下载模组 v2.9.0",
       "finale.sub": "ZIP · 65 MB · 完全免费",
       "footer.note": "非官方模组，与 AceStudio 无关。",
       "footer.game": "游戏",
@@ -500,7 +500,7 @@
       "contribute.eyebrow": "Katkı",
       "contribute.title": "Düzeltme önermek ister misin?",
       "contribute.cta": "Düzeltme öner",
-      "finale.title": "Modu indir v2.8.9",
+      "finale.title": "Modu indir v2.9.0",
       "finale.sub": "ZIP · 65 MB · herkese ücretsiz",
       "footer.note": "Gayri resmi mod. AceStudio ile bağlantısı yoktur.",
       "footer.game": "Oyun",
@@ -585,7 +585,7 @@
       "contribute.eyebrow": "貢献",
       "contribute.title": "修正を提案しませんか？",
       "contribute.cta": "修正を提案",
-      "finale.title": "MOD v2.8.9 をダウンロード",
+      "finale.title": "MOD v2.9.0 をダウンロード",
       "finale.sub": "ZIP · 65 MB · 誰でも無料",
       "footer.note": "非公式MODです。AceStudioとは無関係です。",
       "footer.game": "ゲーム",
@@ -924,7 +924,7 @@
     "contribute.eyebrow": "수정",
     "contribute.title": "수정을 제안하시겠어요?",
     "contribute.cta": "수정 제안",
-    "finale.title": "모드 v2.8.9 다운로드",
+    "finale.title": "모드 v2.9.0 다운로드",
     "finale.sub": "ZIP · 65 MB · 모두 무료",
     "footer.note": "비공식 모드입니다. AceStudio와 무관합니다.",
     "footer.game": "게임",
@@ -981,7 +981,7 @@
   };
   for (const l in I18N_INSTALL) if (I18N[l]) Object.assign(I18N[l], I18N_INSTALL[l]);
 
-    I18N.pl = {"meta.title": "Sarah’s House — mod z tłumaczeniem", "meta.description": "Nieoficjalny wielojęzyczny mod do Sarah’s House. 10 języków ukończonych (100%): RU, UK, DE, ES, FR, ZH, TR, PT, JA, KO.", "meta.og": "Nieoficjalny mod z tłumaczeniem do Sarah’s House 0.11.2", "nav.languages": "Języki", "nav.install": "Instalacja", "nav.gallery": "Galeria", "nav.contribute": "Współtwórz", "nav.download": "Pobierz", "hero.title": "teraz w twoim języku", "hero.lede": "Cała gra w twoim języku. Pobierz archiwum, rozpakuj je do folderu gry i graj.", "hero.download": "Pobierz mod", "hero.downloadSub": "ZIP · 65 MB", "packs.eyebrow": "Języki", "packs.title": "Status paczek", "packs.ingame": "W grze:", "packs.cycle": "przełączanie:", "packs.latestTitle": "Najnowsze ukończone tłumaczenie", "packs.latestSub": "najświeższa gotowa paczka językowa", "packs.othersTitle": "Wszystkie pozostałe języki", "packs.othersSub": "kompaktowe paczki na jednej liście", "packs.author": "Autor", "packs.offer": "Chcesz dodać autorskie tłumaczenie?", "packs.offer.step1": "Zrób fork repozytorium elofaster/sarahs-house-i18n.", "packs.offer.step2": "Utwórz plik języka w mod/i18n/, np. it.json, pl.json, ja.json lub ko.json.", "packs.offer.step3": "Na początku pliku ustaw swój nick kluczem \"__meta.author\".", "packs.offer.step4": "Dodawaj wiersze tłumaczenia w formacie \"english text\": \"twój tekst\".", "packs.offer.step5": "Otwórz Pull Request do main — po weryfikacji paczka pojawi się na stronie.", "packs.offer.cta": "Utwórz plik tłumaczenia na GitHubie", "packs.lines": "Wiersze", "packs.completeness": "Ukończenie", "status.ready": "gotowe", "status.wip": "w trakcie", "lang.ru": "Rosyjski", "lang.en": "Angielski", "lang.de": "Niemiecki", "lang.fr": "Francuski", "lang.uk": "Ukraiński", "lang.es": "Hiszpański", "install.eyebrow": "Instalacja", "install.title": "Jak zainstalować", "install.need": "Wymaga Sarah's House v0.11.2. Gra nie jest dołączona do archiwum.", "install.downloadZip": "Pobierz ZIP", "install.step1Title": "Pobierz", "install.step2Title": "Rozpakuj", "install.step2Text": "archiwizatorem do folderu gry, obok SarahsHouse.exe", "install.step3Title": "Uruchom", "install.step3Text": "pierwsze uruchomienie trwa 1–3 min", "install.remove": "Odinstalowanie:", "gallery.eyebrow": "Galeria", "gallery.title": "Z gry", "contribute.eyebrow": "Współtwórz", "contribute.title": "Chcesz zaproponować poprawki?", "contribute.cta": "Zaproponuj poprawki", "finale.title": "Pobierz mod v2.8.9", "finale.sub": "ZIP · 65 MB · za darmo dla każdego", "footer.note": "Nieoficjalny mod. Niepowiązany z AceStudio.", "footer.game": "Gra", "a11y.skip": "Przejdź do treści", "hero.free": "za darmo dla każdego", "footer.legal": "Wszystkie tłumaczenia należą do swoich autorów, jeśli autor jest wskazany. Tłumaczenia wykonane przez sieci neuronowe należą do projektu. Wszystkie tłumaczenia są open source, z wyjątkiem paczek autorskich — te są publikowane za zgodą ich autorów.", "footer.contact": "Jeśli twoje tłumaczenie jest tu wymienione — napisz do nas:", "footer.project": "Projekt", "footer.translators": "Dla tłumaczy", "footer.top": "Do góry", "contribute.addLang": "Dodaj swój język", "contribute.sub": "Zauważyłeś literówkę albo niezgrabne zdanie? Poprawka przez pull request zajmuje kilka minut — prosto w przeglądarce.", "finale.started": "Pobieranie rozpoczęte", "packs.ingamePath": "Preferences → Language", "dialog.hint": "Kliknij — następny język", "dialog.line": "Teraz rozumiesz każde słowo.", "gallery.open": "Otwórz zrzut", "gallery.cap1": "Poranek w łazience", "gallery.cap2": "Niedzielne popołudnie", "gallery.cap3": "Rozmowa w pokoju", "gallery.cap4": "Przedpokój", "lightbox.close": "Zamknij", "lightbox.prev": "Poprzednie", "lightbox.next": "Następne", "lang.zh": "Chiński", "lang.tr": "Turecki", "lang.pt": "Portugalski", "lang.ja": "Japoński", "packs.totalLines": "Łącznie przetłumaczonych wierszy:", "footer.brandSub": "Mod z tłumaczeniem", "packs.offer.exVal": "Jak się masz?", "lang.ko": "Koreański", "install.step4Title": "Menu języków", "install.step4Text": "otwórz przełącznik w prawym górnym rogu", "install.step5Title": "Wybierz język", "install.step5Text": "wybierz swój język i graj", "lang.pl": "Polski"};
+    I18N.pl = {"meta.title": "Sarah’s House — mod z tłumaczeniem", "meta.description": "Nieoficjalny wielojęzyczny mod do Sarah’s House. 10 języków ukończonych (100%): RU, UK, DE, ES, FR, ZH, TR, PT, JA, KO.", "meta.og": "Nieoficjalny mod z tłumaczeniem do Sarah’s House 0.11.2", "nav.languages": "Języki", "nav.install": "Instalacja", "nav.gallery": "Galeria", "nav.contribute": "Współtwórz", "nav.download": "Pobierz", "hero.title": "teraz w twoim języku", "hero.lede": "Cała gra w twoim języku. Pobierz archiwum, rozpakuj je do folderu gry i graj.", "hero.download": "Pobierz mod", "hero.downloadSub": "ZIP · 65 MB", "packs.eyebrow": "Języki", "packs.title": "Status paczek", "packs.ingame": "W grze:", "packs.cycle": "przełączanie:", "packs.latestTitle": "Najnowsze ukończone tłumaczenie", "packs.latestSub": "najświeższa gotowa paczka językowa", "packs.othersTitle": "Wszystkie pozostałe języki", "packs.othersSub": "kompaktowe paczki na jednej liście", "packs.author": "Autor", "packs.offer": "Chcesz dodać autorskie tłumaczenie?", "packs.offer.step1": "Zrób fork repozytorium elofaster/sarahs-house-i18n.", "packs.offer.step2": "Utwórz plik języka w mod/i18n/, np. it.json, pl.json, ja.json lub ko.json.", "packs.offer.step3": "Na początku pliku ustaw swój nick kluczem \"__meta.author\".", "packs.offer.step4": "Dodawaj wiersze tłumaczenia w formacie \"english text\": \"twój tekst\".", "packs.offer.step5": "Otwórz Pull Request do main — po weryfikacji paczka pojawi się na stronie.", "packs.offer.cta": "Utwórz plik tłumaczenia na GitHubie", "packs.lines": "Wiersze", "packs.completeness": "Ukończenie", "status.ready": "gotowe", "status.wip": "w trakcie", "lang.ru": "Rosyjski", "lang.en": "Angielski", "lang.de": "Niemiecki", "lang.fr": "Francuski", "lang.uk": "Ukraiński", "lang.es": "Hiszpański", "install.eyebrow": "Instalacja", "install.title": "Jak zainstalować", "install.need": "Wymaga Sarah's House v0.11.2. Gra nie jest dołączona do archiwum.", "install.downloadZip": "Pobierz ZIP", "install.step1Title": "Pobierz", "install.step2Title": "Rozpakuj", "install.step2Text": "archiwizatorem do folderu gry, obok SarahsHouse.exe", "install.step3Title": "Uruchom", "install.step3Text": "pierwsze uruchomienie trwa 1–3 min", "install.remove": "Odinstalowanie:", "gallery.eyebrow": "Galeria", "gallery.title": "Z gry", "contribute.eyebrow": "Współtwórz", "contribute.title": "Chcesz zaproponować poprawki?", "contribute.cta": "Zaproponuj poprawki", "finale.title": "Pobierz mod v2.9.0", "finale.sub": "ZIP · 65 MB · za darmo dla każdego", "footer.note": "Nieoficjalny mod. Niepowiązany z AceStudio.", "footer.game": "Gra", "a11y.skip": "Przejdź do treści", "hero.free": "za darmo dla każdego", "footer.legal": "Wszystkie tłumaczenia należą do swoich autorów, jeśli autor jest wskazany. Tłumaczenia wykonane przez sieci neuronowe należą do projektu. Wszystkie tłumaczenia są open source, z wyjątkiem paczek autorskich — te są publikowane za zgodą ich autorów.", "footer.contact": "Jeśli twoje tłumaczenie jest tu wymienione — napisz do nas:", "footer.project": "Projekt", "footer.translators": "Dla tłumaczy", "footer.top": "Do góry", "contribute.addLang": "Dodaj swój język", "contribute.sub": "Zauważyłeś literówkę albo niezgrabne zdanie? Poprawka przez pull request zajmuje kilka minut — prosto w przeglądarce.", "finale.started": "Pobieranie rozpoczęte", "packs.ingamePath": "Preferences → Language", "dialog.hint": "Kliknij — następny język", "dialog.line": "Teraz rozumiesz każde słowo.", "gallery.open": "Otwórz zrzut", "gallery.cap1": "Poranek w łazience", "gallery.cap2": "Niedzielne popołudnie", "gallery.cap3": "Rozmowa w pokoju", "gallery.cap4": "Przedpokój", "lightbox.close": "Zamknij", "lightbox.prev": "Poprzednie", "lightbox.next": "Następne", "lang.zh": "Chiński", "lang.tr": "Turecki", "lang.pt": "Portugalski", "lang.ja": "Japoński", "packs.totalLines": "Łącznie przetłumaczonych wierszy:", "footer.brandSub": "Mod z tłumaczeniem", "packs.offer.exVal": "Jak się masz?", "lang.ko": "Koreański", "install.step4Title": "Menu języków", "install.step4Text": "otwórz przełącznik w prawym górnym rogu", "install.step5Title": "Wybierz język", "install.step5Text": "wybierz swój język i graj", "lang.pl": "Polski"};
   (function(){var N={"ru": "Польский", "en": "Polish", "de": "Polnisch", "uk": "Польська", "es": "Polaco", "fr": "Polonais", "zh": "波兰语", "tr": "Lehçe", "ja": "ポーランド語", "ko": "폴란드어", "pl": "Polski"};for(var _l in I18N){if(I18N[_l]&&!I18N[_l]["lang.pl"])I18N[_l]["lang.pl"]=N[_l]||"Polski";}})();
   const SUPPORTED = Object.keys(I18N);
   const STORAGE_KEY = "hc-site-lang";

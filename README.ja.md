@@ -7,7 +7,7 @@
 『Sarah's House』の非公式多言語 Mod（Windows、v0.11.2）。
 
 - ウェブサイト: https://elofaster.github.io/sarahs-house-i18n/
-- ダウンロード: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
+- ダウンロード: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.9.0/SarahsHouse-i18n-v2.9.0.zip
 - 最新リリース: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
 ## ゲームを応援する

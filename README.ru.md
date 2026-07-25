@@ -7,7 +7,7 @@
 Неофициальный мультиязычный мод для Sarah's House (Windows, v0.11.2).
 
 - Сайт: https://elofaster.github.io/sarahs-house-i18n/
-- Скачать: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
+- Скачать: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.9.0/SarahsHouse-i18n-v2.9.0.zip
 - Последний релиз: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
 ## Поддержите игру

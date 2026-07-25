@@ -7,7 +7,7 @@
 《Sarah's House》의 비공식 다국어 모드 (Windows, v0.11.2).
 
 - 웹사이트: https://elofaster.github.io/sarahs-house-i18n/
-- 다운로드: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
+- 다운로드: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.9.0/SarahsHouse-i18n-v2.9.0.zip
 - 최신 릴리스: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
 ## 게임을 응원해 주세요

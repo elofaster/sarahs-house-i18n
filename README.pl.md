@@ -4,24 +4,24 @@
 
 # Sarah's House — Translation Mod
 
-《Sarah's House》的非官方多语言模组（Windows，v0.11.2）。
+Nieoficjalny wielojęzyczny mod do Sarah's House (Windows, v0.11.2).
 
-- 网站: https://elofaster.github.io/sarahs-house-i18n/
-- 下载: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
-- 最新版本: https://github.com/elofaster/sarahs-house-i18n/releases/latest
+- Strona: https://elofaster.github.io/sarahs-house-i18n/
+- Pobierz: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.8.9/SarahsHouse-i18n-v2.8.9.zip
+- Najnowszy release: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
-## 支持这款游戏
+## Wesprzyj grę
 
-《Sarah's House》是 AceStudio 开发的付费游戏，本模组仅提供翻译。如果你喜欢这款游戏，请购买正版以支持开发者：
+Sarah's House to płatna gra studia AceStudio. Ten mod jedynie ją tłumaczy. Jeśli gra ci się podoba — kup ją i wesprzyj twórców:
 
 - 🛒 Steam — https://store.steampowered.com/app/4712060/Sarahs_House
 - 🎮 itch.io — https://ace-stud.itch.io/sarahs-house
 
-## 语言
+## Języki
 
-| | 代码 | 语言 |
+| | Kod | Język |
 |---|---|---|
-| 🇬🇧 | EN | English（原文） |
+| 🇬🇧 | EN | English (oryginał) |
 | 🇷🇺 | RU | Русский |
 | 🇺🇦 | UK | Українська |
 | 🇩🇪 | DE | Deutsch |
@@ -34,17 +34,17 @@
 | 🇯🇵 | JA | 日本語 |
 | 🇰🇷 | KO | 한국어 |
 
-## 安装
+## Instalacja
 
-1. 将发行版压缩包解压到游戏文件夹中，与 `SarahsHouse.exe` 放在一起。
-2. 启动游戏——首次启动可能需要 1–3 分钟进行准备。
-3. 在游戏内的面板中选择语言：按 `F10`（或点击右上角的语言图标）。
+1. Rozpakuj archiwum release do folderu gry, obok `SarahsHouse.exe`.
+2. Uruchom grę — pierwsze uruchomienie może zająć 1–3 minuty na przygotowanie.
+3. Wybierz język w panelu bezpośrednio w grze: klawisz `F10` (lub ikona języka w prawym górnym rogu).
 
-## 仓库
+## Repozytorium
 
-- `docs/` — 网站（GitHub Pages）
-- `mod/` — 模组本体：插件、语言包和字体
+- `docs/` — strona (GitHub Pages)
+- `mod/` — sam mod — wtyczka, paczki językowe i czcionki
 
 ---
 
-非官方粉丝模组，与 AceStudio 无关。
+Nieoficjalny fanowski mod. Niepowiązany z AceStudio.

@@ -43,5 +43,9 @@
   "ko": {
     "author": "Claude Opus 4.8",
     "file": "ko.json"
+  },
+  "pl": {
+    "author": "Claude Opus 4.8",
+    "file": "pl.json"
   }
 }

@@ -1,13 +1,13 @@
 <p align="center"><img src="docs/assets/readme-header.png" alt="Sarah's House — Translation Mod" width="100%"></p>
 
-[English](README.md) · [Русский](README.ru.md) · [Українська](README.uk.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Türkçe](README.tr.md) · [Polski](README.pl.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+[English](README.md) · [Русский](README.ru.md) · [Українська](README.uk.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Türkçe](README.tr.md) · [Polski](README.pl.md) · [Tiếng Việt](README.vi.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 # Sarah's House — Translation Mod
 
-Sarah's House için resmi olmayan çok dilli bir mod (Windows, v0.11.2).
+Sarah's House için resmi olmayan çok dilli bir mod (Windows, v0.11.6).
 
 - Web sitesi: https://elofaster.github.io/sarahs-house-i18n/
-- İndir: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.9.0/SarahsHouse-i18n-v2.9.0.zip
+- İndir: https://github.com/elofaster/sarahs-house-i18n/releases/download/v2.9.1/SarahsHouse-i18n-v2.9.1.zip
 - Son sürüm: https://github.com/elofaster/sarahs-house-i18n/releases/latest
 
 ## Oyunu destekleyin
@@ -30,6 +30,7 @@ Sarah's House, AceStudio'nun ücretli bir oyunudur. Bu mod yalnızca onu çeviri
 | 🇵🇹 | PT | Português |
 | 🇹🇷 | TR | Türkçe |
 | 🇵🇱 | PL | Polski |
+| 🇻🇳 | VI | Tiếng Việt |
 | 🇨🇳 | ZH | 中文 |
 | 🇯🇵 | JA | 日本語 |
 | 🇰🇷 | KO | 한국어 |

@@ -47,5 +47,9 @@
   "pl": {
     "author": "Claude Opus 4.8",
     "file": "pl.json"
+  },
+  "vi": {
+    "author": "Claude Opus 4.8",
+    "file": "vi.json"
   }
 }

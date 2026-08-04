@@ -1,6 +1,28 @@
-.DS_Store
+# build output
+mod/bin/
+mod/obj/
+dist/
+
+# local game copy (never commit game assets)
+SarahsHouse_v0.11.6/
+*.assets
+*.bundle
+
+# runtime state
+**/.lang_selected
+
+# editor / OS
+.vs/
+.idea/
+*.user
 Thumbs.db
-*.log
-__pycache__/
-releases/
-docs/download/*.zip
+desktop.ini
+
+# translation pack backups -- never commit
+*.bak
+*.bak_*
+*.backup
+*.old
+*.orig
+backup/
+backups/

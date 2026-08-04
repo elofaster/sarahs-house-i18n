@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>SarahsHouseI18n</AssemblyName>
+    <RootNamespace>SarahsHouseI18n</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="src\**\*.cs" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <!-- Override with -p:GameDir=... ; defaults to the game sitting next to this project -->
+    <GameDir Condition="'$(GameDir)' == ''">$(MSBuildProjectDirectory)\..\SarahsHouse_v0.11.6</GameDir>
+    <BepInExCore>$(GameDir)\BepInEx\core</BepInExCore>
+    <BepInExInterop>$(GameDir)\BepInEx\interop</BepInExInterop>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- BepInEx 6 (IL2CPP) -->
+    <Reference Include="BepInEx.Core"><HintPath>$(BepInExCore)\BepInEx.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="BepInEx.Unity.IL2CPP"><HintPath>$(BepInExCore)\BepInEx.Unity.IL2CPP.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Il2CppInterop.Runtime"><HintPath>$(BepInExCore)\Il2CppInterop.Runtime.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(BepInExCore)\0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="MonoMod.Utils"><HintPath>$(BepInExCore)\MonoMod.Utils.dll</HintPath><Private>false</Private></Reference>
+
+    <!-- IL2CPP interop assemblies -->
+    <Reference Include="Il2Cppmscorlib"><HintPath>$(BepInExInterop)\Il2Cppmscorlib.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Il2CppSystem"><HintPath>$(BepInExInterop)\Il2CppSystem.dll</HintPath><Private>false</Private></Reference>
+
+    <!-- Unity modules the plugin touches -->
+    <Reference Include="UnityEngine"><HintPath>$(BepInExInterop)\UnityEngine.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(BepInExInterop)\UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.AssetBundleModule"><HintPath>$(BepInExInterop)\UnityEngine.AssetBundleModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.ImageConversionModule"><HintPath>$(BepInExInterop)\UnityEngine.ImageConversionModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.IMGUIModule"><HintPath>$(BepInExInterop)\UnityEngine.IMGUIModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.InputLegacyModule"><HintPath>$(BepInExInterop)\UnityEngine.InputLegacyModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.InputModule"><HintPath>$(BepInExInterop)\UnityEngine.InputModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.TextRenderingModule"><HintPath>$(BepInExInterop)\UnityEngine.TextRenderingModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule"><HintPath>$(BepInExInterop)\UnityEngine.TextCoreFontEngineModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.TextCoreTextEngineModule"><HintPath>$(BepInExInterop)\UnityEngine.TextCoreTextEngineModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UI"><HintPath>$(BepInExInterop)\UnityEngine.UI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UIModule"><HintPath>$(BepInExInterop)\UnityEngine.UIModule.dll</HintPath><Private>false</Private></Reference>
+
+    <!-- Game-side text stack -->
+    <Reference Include="Unity.TextMeshPro"><HintPath>$(BepInExInterop)\Unity.TextMeshPro.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Unity.Localization"><HintPath>$(BepInExInterop)\Unity.Localization.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Febucci.TextAnimator.Runtime"><HintPath>$(BepInExInterop)\Febucci.TextAnimator.Runtime.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

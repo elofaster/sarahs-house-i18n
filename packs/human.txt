@@ -1,0 +1,4 @@
+# Language codes that got a human pass, one per line.
+# Everything not listed here is labelled AI in the in-game picker.
+# example:
+# ru

@@ -58,6 +58,14 @@ Chỉ cần chép `SarahsHouseI18n/` vào `BepInEx/plugins/`. Chi tiết: [docs/
 
 <br>
 
+<img src="../assets/h_about.vi.png" alt="Về bản dịch" height="48">
+
+Cả 12 ngôn ngữ đều do mô hình **Claude Opus 4.8** (Anthropic) dịch — trọn vẹn, khoảng 15 000 dòng mỗi ngôn ngữ.
+
+Bản dịch không làm theo từng dòng: mô hình nhìn cả phân cảnh, nên lời thoại giữ đúng cá tính nhân vật. Opus 4.8 là mô hình chủ lực của Anthropic và là một trong những mô hình dịch mạnh nhất hiện nay.
+
+<br>
+
 <img src="../assets/h_fix.vi.png" alt="Nếu có gì trục trặc" height="48">
 
 <details>
@@ -96,6 +104,14 @@ Xoá thư mục `BepInEx/plugins/SarahsHouseI18n`. Muốn gỡ cả BepInEx thì
 Các gói dịch là file JSON thuần trong [`packs/`](../../packs): khoá là câu tiếng Anh, giá trị là bản dịch. Ở bản đã cài, chính các file đó nằm trong `BepInEx/plugins/SarahsHouseI18n/i18n/` — sửa xong khởi động lại game là thấy.
 
 Có thể thêm ngôn ngữ mới mà không cần build lại mod — hướng dẫn: [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md). Hoan nghênh pull request.
+
+<img src="../assets/h_game.vi.png" alt="Trò chơi" height="48">
+
+**Sarah's House** do **AceStudio** phát triển — mod chỉ chứa bản dịch, không kèm theo game.
+
+Nếu bản dịch hữu ích với bạn, hãy ủng hộ nhà phát triển: mua game và để lại đánh giá.
+
+[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
 
 <div align="center">
 

@@ -58,6 +58,14 @@ SarahsHouse/
 
 <br>
 
+<img src="../assets/h_about.zh.png" alt="关于翻译" height="48">
+
+全部 12 种语言均由 **Claude Opus 4.8**（Anthropic）翻译——完整覆盖，每种语言约 15 000 行。
+
+翻译不是逐行进行的：模型能看到整个场景，因此台词保留了每个角色的语气。Opus 4.8 是 Anthropic 的旗舰模型，也是当今最强的翻译模型之一。
+
+<br>
+
 <img src="../assets/h_fix.zh.png" alt="遇到问题时" height="48">
 
 <details>
@@ -96,6 +104,14 @@ SarahsHouse/
 翻译包是 [`packs/`](../../packs) 里的纯 JSON 文件：键为英文原文，值为译文。已安装的拷贝中，同样的文件位于 `BepInEx/plugins/SarahsHouseI18n/i18n/`——改完重启游戏即可生效。
 
 无需重新构建模组即可添加新语言——见 [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md)。欢迎提交 Pull Request。
+
+<img src="../assets/h_game.zh.png" alt="关于游戏" height="48">
+
+**Sarah's House** 由 **AceStudio** 开发——本模组只包含翻译，不含游戏本体。
+
+如果这份翻译帮到了你，请支持开发者：购买游戏并留下评价。
+
+[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
 
 <div align="center">
 

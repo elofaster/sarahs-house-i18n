@@ -58,6 +58,14 @@ SarahsHouse/
 
 <br>
 
+<img src="../assets/h_about.ja.png" alt="翻訳について" height="48">
+
+12 言語すべてを **Claude Opus 4.8**（Anthropic）が翻訳 — 各言語およそ 15,000 行を完全翻訳。
+
+翻訳は一行ずつではありません: モデルはシーン全体を見るため、セリフは各キャラクターの声を保ちます。Opus 4.8 は Anthropic のフラッグシップモデルで、現在もっとも翻訳に強いモデルのひとつです。
+
+<br>
+
 <img src="../assets/h_fix.ja.png" alt="うまくいかないときは" height="48">
 
 <details>
@@ -96,6 +104,14 @@ Unity MOD で標準の BepInEx ローダーです。ファイルを隔離から�
 翻訳パックは [`packs/`](../../packs) にあるただの JSON です: キーが英語原文、値が訳文。インストール済みのコピーでは同じファイルが `BepInEx/plugins/SarahsHouseI18n/i18n/` にあり、編集はゲーム再起動後に反映されます。
 
 新しい言語は MOD を再ビルドせずに追加できます — 手順は [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md)。Pull Request 歓迎です。
+
+<img src="../assets/h_game.ja.png" alt="ゲームについて" height="48">
+
+**Sarah's House** は **AceStudio** の作品です — この MOD に含まれるのは翻訳のみで、ゲーム本体は含まれません。
+
+翻訳が役に立ったら、開発者を応援してください: ゲームを購入してレビューを残しましょう。
+
+[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
 
 <div align="center">
 

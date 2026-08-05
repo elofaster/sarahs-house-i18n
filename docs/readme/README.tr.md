@@ -58,6 +58,14 @@ SarahsHouse/
 
 <br>
 
+<img src="../assets/h_about.tr.png" alt="Çeviri hakkında" height="48">
+
+12 dilin tamamı **Claude Opus 4.8** (Anthropic) tarafından çevrildi — eksiksiz, dil başına yaklaşık 15 000 satır.
+
+Çeviri satır satır yapılmadı: model sahnenin tamamını görür, bu yüzden replikler her karakterin sesini korur. Opus 4.8, Anthropic'in amiral gemisi modeli ve bugün çevirideki en güçlülerden biri.
+
+<br>
+
 <img src="../assets/h_fix.tr.png" alt="Bir şeyler ters giderse" height="48">
 
 <details>
@@ -96,6 +104,14 @@ Yeni ve değişen satırlar henüz çevrilmedi — İngilizce görünürler, oyu
 Çeviri paketleri [`packs/`](../../packs) içindeki düz JSON dosyalarıdır: anahtar İngilizce satır, değer çeviridir. Kurulu kopyada aynı dosyalar `BepInEx/plugins/SarahsHouseI18n/i18n/` içindedir — değişiklikler oyun yeniden başlatılınca görünür.
 
 Yeni bir dil, modu yeniden derlemeden eklenebilir — yönerge: [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md). Pull request'ler memnuniyetle karşılanır.
+
+<img src="../assets/h_game.tr.png" alt="Oyun" height="48">
+
+**Sarah's House**, **AceStudio** yapımıdır — mod yalnızca çeviriyi içerir, oyunun kendisi dahil değildir.
+
+Çeviri işinize yaradıysa geliştiriciyi destekleyin: oyunu satın alın ve bir yorum bırakın.
+
+[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
 
 <div align="center">
 

@@ -58,6 +58,14 @@ Wystarczy skopiować `SarahsHouseI18n/` do `BepInEx/plugins/`. Szczegóły w [do
 
 <br>
 
+<img src="../assets/h_about.pl.png" alt="O tłumaczeniu" height="48">
+
+Wszystkie 12 języków przetłumaczył model **Claude Opus 4.8** (Anthropic) — w całości, około 15 000 linii na język.
+
+Tłumaczenie nie powstawało linia po linii: model widzi całą scenę, więc kwestie zachowują charakter postaci. Opus 4.8 to flagowy model Anthropic i jeden z najmocniejszych w tłumaczeniach obecnie.
+
+<br>
+
 <img src="../assets/h_fix.pl.png" alt="Gdy coś pójdzie nie tak" height="48">
 
 <details>
@@ -96,6 +104,14 @@ Usuń folder `BepInEx/plugins/SarahsHouseI18n`. Jeśli chcesz usunąć też BepI
 Paczki tłumaczeń to zwykłe pliki JSON w [`packs/`](../../packs): klucz to angielska linia, wartość — tłumaczenie. W zainstalowanej kopii te same pliki leżą w `BepInEx/plugins/SarahsHouseI18n/i18n/` — zmiany widać po restarcie gry.
 
 Nowy język można dodać bez przebudowy moda — instrukcja w [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md). Pull requesty mile widziane.
+
+<img src="../assets/h_game.pl.png" alt="Gra" height="48">
+
+**Sarah's House** tworzy **AceStudio** — mod zawiera wyłącznie tłumaczenie, sama gra nie wchodzi w jego skład.
+
+Jeśli tłumaczenie ci się przydało, wesprzyj twórcę: kup grę i zostaw recenzję.
+
+[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
 
 <div align="center">
 

@@ -58,6 +58,14 @@ SarahsHouse/
 
 <br>
 
+<img src="../assets/h_about.uk.png" alt="Про переклад" height="48">
+
+Усі 12 мов перекладені моделлю **Claude Opus 4.8** (Anthropic) — повністю, близько 15 000 рядків на кожну мову.
+
+Переклад робився не порядково: модель бачить сцену цілком, тому репліки зберігають характер персонажів. Opus 4.8 — флагманська модель Anthropic, одна з найсильніших у перекладі на сьогодні.
+
+<br>
+
 <img src="../assets/h_fix.uk.png" alt="Якщо щось пішло не так" height="48">
 
 <details>
@@ -96,6 +104,14 @@ SarahsHouse/
 Пакети перекладів — звичайні JSON у [`packs/`](../../packs): ключ — англійський рядок, значення — переклад. У встановленому моді ті самі файли лежать у `BepInEx/plugins/SarahsHouseI18n/i18n/` — правка видна після перезапуску гри.
 
 Нова мова додається без перезбирання мода — інструкція в [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md). Пул-реквести вітаються.
+
+<img src="../assets/h_game.uk.png" alt="Гра" height="48">
+
+**Sarah's House** робить **AceStudio** — мод містить лише переклад, сама гра до нього не входить.
+
+Якщо переклад став вам у пригоді, підтримайте розробника: купіть гру та залиште відгук.
+
+[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
 
 <div align="center">
 

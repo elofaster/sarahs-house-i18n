@@ -1,20 +1,3 @@
-## 💰 Apoie as traduções · Encomende a tradução de qualquer jogo
-
-Gostou desta tradução? Apoie o projeto com uma doação em criptomoedas. Você também pode **encomendar a tradução de qualquer jogo** por uma doação **a partir de US$ 20**.
-
-📧 Encomendas e contato: [novokex@gmail.com](mailto:novokex@gmail.com)
-
-| Moeda | Rede | Endereço |
-| :---: | :---: | :--- |
-| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
-| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
-| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-
----
-
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
@@ -43,6 +26,21 @@ O mod traduz **Sarah's House** para 12 idiomas. O idioma é escolhido no primeir
 e pode ser trocado depois com **F10** no menu principal. Os arquivos do jogo não são tocados.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.pt.png" width="410" alt="Baixar a versão mais recente"></a>
+
+## 💰 Apoie as traduções · Encomende a tradução de qualquer jogo
+
+Gostou desta tradução? Apoie o projeto com uma doação em criptomoedas. Você também pode **encomendar a tradução de qualquer jogo** por uma doação **a partir de US$ 20**.
+
+📧 Encomendas e contato: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| Moeda | Rede | Endereço |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
 <img src="../assets/picker.png" alt="seletor de idioma" width="920">
 

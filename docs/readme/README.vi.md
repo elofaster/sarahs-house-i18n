@@ -1,20 +1,3 @@
-## 💰 Ủng hộ bản dịch · Đặt dịch bất kỳ game nào
-
-Nếu bạn thích bản dịch này, hãy ủng hộ dự án bằng tiền mã hóa. Bạn cũng có thể **đặt dịch bất kỳ game nào** với khoản ủng hộ **từ 20 $**.
-
-📧 Đặt dịch & liên hệ: [novokex@gmail.com](mailto:novokex@gmail.com)
-
-| Coin | Mạng | Địa chỉ |
-| :---: | :---: | :--- |
-| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
-| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
-| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-
----
-
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
@@ -43,6 +26,21 @@ Mod dịch **Sarah's House** sang 12 ngôn ngữ. Ngôn ngữ được chọn �
 sau đó đổi bằng **F10** trong menu chính. Mod không đụng vào file game.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.vi.png" width="410" alt="Tải bản mới nhất"></a>
+
+## 💰 Ủng hộ bản dịch · Đặt dịch bất kỳ game nào
+
+Nếu bạn thích bản dịch này, hãy ủng hộ dự án bằng tiền mã hóa. Bạn cũng có thể **đặt dịch bất kỳ game nào** với khoản ủng hộ **từ 20 $**.
+
+📧 Đặt dịch & liên hệ: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| Coin | Mạng | Địa chỉ |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
 <img src="../assets/picker.png" alt="menu chọn ngôn ngữ" width="920">
 

@@ -1,20 +1,3 @@
-## 💰 Support the translations · Order a translation of any game
-
-If you enjoy this translation, you can support the project with a crypto donation. You can also **order a translation of any game** for a donation **from $20**.
-
-📧 Orders & contact: [novokex@gmail.com](mailto:novokex@gmail.com)
-
-| Coin | Network | Address |
-| :---: | :---: | :--- |
-| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
-| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
-| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-
----
-
 <div align="center">
 
 <img src="docs/assets/banner.png" alt="Sarah's House — i18n" width="920">
@@ -43,6 +26,21 @@ The mod translates **Sarah's House** into 12 languages. The language is picked o
 launch and can be changed later with **F10** in the main menu. Game files stay untouched.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="docs/assets/btn_download.en.png" width="410" alt="Download latest release"></a>
+
+## 💰 Support the translations · Order a translation of any game
+
+If you enjoy this translation, you can support the project with a crypto donation. You can also **order a translation of any game** for a donation **from $20**.
+
+📧 Orders & contact: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| Coin | Network | Address |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
 <img src="docs/assets/picker.png" alt="language picker" width="920">
 

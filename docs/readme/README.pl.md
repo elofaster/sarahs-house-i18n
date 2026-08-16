@@ -1,20 +1,3 @@
-## 💰 Wesprzyj tłumaczenia · Zamów tłumaczenie dowolnej gry
-
-Podoba Ci się to tłumaczenie? Wesprzyj projekt dotacją w kryptowalucie. Możesz też **zamówić tłumaczenie dowolnej gry** za dotację **od 20 $**.
-
-📧 Zamówienia i kontakt: [novokex@gmail.com](mailto:novokex@gmail.com)
-
-| Moneta | Sieć | Adres |
-| :---: | :---: | :--- |
-| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
-| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
-| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-
----
-
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
@@ -43,6 +26,21 @@ Mod tłumaczy **Sarah's House** na 12 języków. Język wybiera się przy pierws
 później zmienia się go klawiszem **F10** w menu głównym. Pliki gry pozostają nietknięte.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.pl.png" width="410" alt="Pobierz najnowsze wydanie"></a>
+
+## 💰 Wesprzyj tłumaczenia · Zamów tłumaczenie dowolnej gry
+
+Podoba Ci się to tłumaczenie? Wesprzyj projekt dotacją w kryptowalucie. Możesz też **zamówić tłumaczenie dowolnej gry** za dotację **od 20 $**.
+
+📧 Zamówienia i kontakt: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| Moneta | Sieć | Adres |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
 <img src="../assets/picker.png" alt="menu wyboru języka" width="920">
 

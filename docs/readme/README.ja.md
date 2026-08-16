@@ -1,20 +1,3 @@
-## 💰 翻訳を支援 · 好きなゲームの翻訳を依頼
-
-この翻訳が気に入ったら、暗号資産の寄付でプロジェクトを支援できます。**20ドル以上**の寄付で**任意のゲームの翻訳**を依頼することも可能です。
-
-📧 依頼・連絡先: [novokex@gmail.com](mailto:novokex@gmail.com)
-
-| コイン | ネットワーク | アドレス |
-| :---: | :---: | :--- |
-| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
-| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
-| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-
----
-
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
@@ -43,6 +26,21 @@
 あとからメインメニューの **F10** で変更できます。ゲームのファイルには手を加えません。
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.ja.png" width="410" alt="最新リリースをダウンロード"></a>
+
+## 💰 翻訳を支援 · 好きなゲームの翻訳を依頼
+
+この翻訳が気に入ったら、暗号資産の寄付でプロジェクトを支援できます。**20ドル以上**の寄付で**任意のゲームの翻訳**を依頼することも可能です。
+
+📧 依頼・連絡先: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| コイン | ネットワーク | アドレス |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
 <img src="../assets/picker.png" alt="言語選択メニュー" width="920">
 

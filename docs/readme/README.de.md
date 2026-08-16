@@ -1,20 +1,3 @@
-## 💰 Übersetzungen unterstützen · Übersetzung eines beliebigen Spiels bestellen
-
-Gefällt dir diese Übersetzung? Unterstütze das Projekt mit einer Krypto-Spende. Du kannst außerdem **die Übersetzung eines beliebigen Spiels** für eine Spende **ab 20 $** bestellen.
-
-📧 Bestellungen & Kontakt: [novokex@gmail.com](mailto:novokex@gmail.com)
-
-| Coin | Netzwerk | Adresse |
-| :---: | :---: | :--- |
-| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
-| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
-| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-
----
-
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
@@ -43,6 +26,21 @@ Der Mod übersetzt **Sarah's House** in 12 Sprachen. Die Sprache wird beim erste
 gewählt und lässt sich später mit **F10** im Hauptmenü ändern. Spieldateien bleiben unangetastet.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.de.png" width="410" alt="Neueste Version herunterladen"></a>
+
+## 💰 Übersetzungen unterstützen · Übersetzung eines beliebigen Spiels bestellen
+
+Gefällt dir diese Übersetzung? Unterstütze das Projekt mit einer Krypto-Spende. Du kannst außerdem **die Übersetzung eines beliebigen Spiels** für eine Spende **ab 20 $** bestellen.
+
+📧 Bestellungen & Kontakt: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| Coin | Netzwerk | Adresse |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
 <img src="../assets/picker.png" alt="Sprachauswahl" width="920">
 

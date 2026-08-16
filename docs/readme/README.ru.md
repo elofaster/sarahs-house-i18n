@@ -1,20 +1,3 @@
-## 💰 Поддержать переводы · Заказать перевод любой игры
-
-Понравился перевод? Поддержите проект донатом в криптовалюте. Также можно **заказать перевод любой игры** за донат **от $20**.
-
-📧 Заказы и связь: [novokex@gmail.com](mailto:novokex@gmail.com)
-
-| Монета | Сеть | Адрес |
-| :---: | :---: | :--- |
-| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
-| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
-| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-
----
-
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
@@ -43,6 +26,21 @@
 дальше меняется по **F10** в главном меню. Файлы игры мод не трогает.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.ru.png" width="410" alt="Скачать последний релиз"></a>
+
+## 💰 Поддержать переводы · Заказать перевод любой игры
+
+Понравился перевод? Поддержите проект донатом в криптовалюте. Также можно **заказать перевод любой игры** за донат **от $20**.
+
+📧 Заказы и связь: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| Монета | Сеть | Адрес |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
 <img src="../assets/picker.png" alt="меню выбора языка" width="920">
 

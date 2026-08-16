@@ -1,3 +1,20 @@
+## 💰 Apoya las traducciones · Encarga la traducción de cualquier juego
+
+¿Te gusta esta traducción? Apoya el proyecto con una donación en criptomonedas. También puedes **encargar la traducción de cualquier juego** por una donación **desde 20 $**.
+
+📧 Encargos y contacto: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| Moneda | Red | Dirección |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+
+---
+
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">

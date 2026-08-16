@@ -1,3 +1,20 @@
+## 💰 번역 후원 · 원하는 게임 번역 의뢰
+
+이 번역이 마음에 드셨나요? 암호화폐 후원으로 프로젝트를 지원할 수 있습니다. **20달러 이상** 후원으로 **원하는 게임의 번역**을 의뢰할 수도 있습니다.
+
+📧 의뢰 및 문의: [novokex@gmail.com](mailto:novokex@gmail.com)
+
+| 코인 | 네트워크 | 주소 |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+
+---
+
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">

@@ -1,3 +1,20 @@
+## 💰 支持翻译 · 定制任意游戏的翻译
+
+喜欢这个翻译？欢迎通过加密货币捐助支持本项目。你也可以以 **20 美元起**的捐助**定制任意游戏的翻译**。
+
+📧 定制与联系：[novokex@gmail.com](mailto:novokex@gmail.com)
+
+| 币种 | 网络 | 地址 |
+| :---: | :---: | :--- |
+| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
+| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
+| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
+| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
+
+---
+
 <div align="center">
 
 <img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">

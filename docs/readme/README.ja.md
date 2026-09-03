@@ -26,6 +26,7 @@
 あとからメインメニューの **F10** で変更できます。ゲームのファイルには手を加えません。
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.ja.png" width="410" alt="最新リリースをダウンロード"></a>
+<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.ja.png" width="526" alt="Discord に参加"></a>
 
 ## 💰 翻訳を支援 · 好きなゲームの翻訳を依頼
 

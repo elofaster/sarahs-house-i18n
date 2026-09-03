@@ -26,6 +26,7 @@ Mod, **Sarah's House** oyununu 12 dile çevirir. Dil ilk açılışta seçilir,
 sonra ana menüde **F10** ile değiştirilir. Oyun dosyalarına dokunulmaz.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.tr.png" width="410" alt="Son sürümü indir"></a>
+<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.tr.png" width="563" alt="Discord'a katıl"></a>
 
 ## 💰 Çevirilere destek ol · Herhangi bir oyunun çevirisini sipariş et
 

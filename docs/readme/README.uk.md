@@ -26,6 +26,7 @@
 далі змінюється через **F10** у головному меню. Файли гри мод не чіпає.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.uk.png" width="410" alt="Завантажити останній реліз"></a>
+<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.uk.png" width="675" alt="Наш Discord-сервер"></a>
 
 ## 💰 Підтримати переклади · Замовити переклад будь-якої гри
 

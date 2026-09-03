@@ -26,6 +26,7 @@ O mod traduz **Sarah's House** para 12 idiomas. O idioma é escolhido no primeir
 e pode ser trocado depois com **F10** no menu principal. Os arquivos do jogo não são tocados.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.pt.png" width="410" alt="Baixar a versão mais recente"></a>
+<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.pt.png" width="606" alt="Entre no Discord"></a>
 
 ## 💰 Apoie as traduções · Encomende a tradução de qualquer jogo
 

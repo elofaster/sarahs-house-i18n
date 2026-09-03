@@ -26,6 +26,7 @@ Mod dịch **Sarah's House** sang 12 ngôn ngữ. Ngôn ngữ được chọn �
 sau đó đổi bằng **F10** trong menu chính. Mod không đụng vào file game.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.vi.png" width="410" alt="Tải bản mới nhất"></a>
+<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.vi.png" width="611" alt="Tham gia Discord"></a>
 
 ## 💰 Ủng hộ bản dịch · Đặt dịch bất kỳ game nào
 

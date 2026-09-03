@@ -26,6 +26,7 @@
 이후 메인 메뉴에서 **F10** 으로 바꿉니다. 게임 파일은 건드리지 않습니다.
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.ko.png" width="410" alt="최신 릴리스 다운로드"></a>
+<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.ko.png" width="549" alt="Discord 참여하기"></a>
 
 ## 💰 번역 후원 · 원하는 게임 번역 의뢰
 

@@ -26,6 +26,7 @@
 之后在主菜单按 **F10** 更换。不改动任何游戏文件。
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.zh.png" width="410" alt="下载最新版本"></a>
+<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.zh.png" width="593" alt="加入我们的 Discord"></a>
 
 ## 💰 支持翻译 · 定制任意游戏的翻译
 

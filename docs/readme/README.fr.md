@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
+<img src="../assets/banner.png" alt="Sarah's House – i18n" width="920">
 
 [<kbd> English </kbd>](../../README.md)
 [<kbd> Русский </kbd>](README.ru.md)
@@ -18,21 +18,17 @@
 
 <br>
 
-[![Release](https://img.shields.io/badge/RELEASE-v3.0.0-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
-![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.11.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
+[![Release](https://img.shields.io/badge/RELEASE-v3.1.1-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
+![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.12.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
 [![BepInEx](https://img.shields.io/badge/BEPINEX-6%20IL2CPP-4a4a55?style=for-the-badge&labelColor=2b0f22)](https://github.com/BepInEx/BepInEx)
 
-Le mod traduit **Sarah's House** en 12 langues. La langue se choisit au premier lancement
-et se change ensuite avec **F10** dans le menu principal. Les fichiers du jeu ne sont pas modifiés.
-
-<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.fr.png" width="410" alt="Télécharger la dernière version"></a>
-<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.fr.png" width="632" alt="Rejoins le Discord"></a>
+<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/dl.png" width="500" alt="Télécharger la v3.1.1, 64,5 Mo"></a> <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/dc.png" width="320" alt="Rejoindre notre Discord"></a>
 
 ## 💰 Soutenir les traductions · Commander la traduction de n'importe quel jeu
 
 Vous aimez cette traduction ? Soutenez le projet avec un don en cryptomonnaie. Vous pouvez aussi **commander la traduction de n'importe quel jeu** pour un don **à partir de 20 $**.
 
-📧 Commandes et contact : [novokex@gmail.com](mailto:novokex@gmail.com)
+📧 Commandes et contact: [novokex@gmail.com](mailto:novokex@gmail.com)
 
 | Monnaie | Réseau | Adresse |
 | :---: | :---: | :--- |
@@ -43,102 +39,88 @@ Vous aimez cette traduction ? Soutenez le projet avec un don en cryptomonnaie. V
 | **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
 | **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
-<img src="../assets/picker.png" alt="sélecteur de langue" width="920">
-
 </div>
 
-<img src="../assets/h_install.fr.png" alt="Installation" height="48">
+<div align="center">
+  <img src="../assets/game.jpg" width="880" alt="Sarah's House">
+</div>
 
-1. Téléchargez `SarahsHouse-i18n-v3.0.0.zip` depuis la [page des releases](https://github.com/elofaster/sarahs-house-i18n/releases/latest).
-2. Extrayez l'archive dans le dossier du jeu — là où se trouve `SarahsHouse.exe`.
-3. Lancez le jeu. Le premier démarrage prend une à deux minutes de plus : BepInEx se configure une seule fois pour votre copie. Ensuite le sélecteur de langue s'ouvre tout seul.
+Le jeu n'est pas inclus. Il vous faut votre propre copie.
 
-Vous devriez obtenir ceci :
+<p align="center">
+  <a href="https://store.steampowered.com/app/4712060/Sarahs_House"><img src="../assets/steam.png" width="260" alt="Acheter sur Steam"></a>
+  <a href="https://ace-stud.itch.io/sarahs-house"><img src="../assets/itch.png" width="220" alt="Le prendre sur itch.io"></a>
+</p>
+
+## Installation
+
+1. Téléchargez `SarahsHouse-i18n-v3.1.1.zip` depuis la [page des versions](https://github.com/elofaster/sarahs-house-i18n/releases/latest).
+2. Décompressez l'archive dans le dossier du jeu, celui où se trouve `SarahsHouse.exe`. Fusionnez, sans imbriquer : les dossiers de l'archive arrivent à côté de l'exe.
+3. Lancez le jeu. Le premier démarrage prend une ou deux minutes de plus, le temps que BepInEx se configure pour votre copie, ensuite le sélecteur de langue s'ouvre tout seul.
+
+Ensuite, le dossier ressemble à ceci :
 
 ```text
 SarahsHouse/
-├─ SarahsHouse.exe          ← le jeu
-├─ winhttp.dll              ┐
-├─ doorstop_config.ini      │  de l'archive
-├─ dotnet/                  │
-└─ BepInEx/                 ┘
+├─ SarahsHouse.exe
+├─ winhttp.dll
+├─ doorstop_config.ini
+├─ dotnet/
+└─ BepInEx/
+    └─ plugins/
+        └─ SarahsHouseI18n/
 ```
 
-<details>
-<summary>BepInEx 6 IL2CPP déjà installé</summary>
-<br>
+`winhttp.dll`, `doorstop_config.ini`, `dotnet/` et `BepInEx/` viennent tous de l'archive ; le mod est le dernier dossier.
 
-Copiez simplement `SarahsHouseI18n/` dans `BepInEx/plugins/`. Détails dans [docs/INSTALL.md](../INSTALL.md).
+<details>
+<summary><b>Vous avez déjà BepInEx 6 IL2CPP ?</b></summary>
+
+Il vous faut alors seulement le mod : copiez `BepInEx/plugins/SarahsHouseI18n/` de l'archive dans votre propre `BepInEx/plugins/` et lancez le jeu. Rien d'autre n'est nécessaire, et la langue choisie est mémorisée pour chaque installation.
 
 </details>
 
-<br>
-
-<img src="../assets/h_about.fr.png" alt="À propos de la traduction" height="48">
-
-Les 12 langues ont été traduites par **Claude Opus 4.8** (Anthropic) — intégralement, environ 15 000 lignes par langue.
-
-La traduction ne s'est pas faite ligne par ligne : le modèle voit la scène entière, les répliques gardent donc la voix de chaque personnage. Opus 4.8 est le modèle phare d'Anthropic et l'un des plus forts en traduction aujourd'hui.
-
-<br>
-
-<img src="../assets/h_fix.fr.png" alt="Si quelque chose cloche" height="48">
-
 <details>
-<summary>Le premier lancement est très long</summary>
-<br>
+<summary><b>Changer de langue plus tard</b></summary>
 
-C'est normal : BepInEx génère les assemblies pour votre copie du jeu. Cela n'arrive qu'une fois — les lancements suivants sont normaux.
-
-</details>
-<details>
-<summary>L'antivirus râle sur <code>winhttp.dll</code></summary>
-<br>
-
-C'est le chargeur de BepInEx, standard pour les mods Unity. Restaurez le fichier de la quarantaine et ajoutez le dossier du jeu aux exclusions.
-
-</details>
-<details>
-<summary>Après une mise à jour du jeu, du texte repasse en anglais</summary>
-<br>
-
-Les lignes nouvelles ou modifiées ne sont pas encore traduites : elles s'affichent en anglais et le jeu continue de fonctionner. Mettez le mod à jour dès qu'une nouvelle version sort.
-
-</details>
-<details>
-<summary>Comment désinstaller le mod</summary>
-<br>
-
-Supprimez le dossier `BepInEx/plugins/SarahsHouseI18n`. Pour retirer aussi BepInEx, supprimez également `winhttp.dll`. Le jeu revient à son état d'origine.
+Appuyez sur <kbd>F10</kbd> dans le menu principal. Le sélecteur s'ouvre sur la scène, la langue actuelle au milieu de la roue, et la validation change le texte immédiatement.
 
 </details>
 
-<br>
-
-<img src="../assets/h_translators.fr.png" alt="Pour les traducteurs" height="48">
-
-Les packs de traduction sont de simples JSON dans [`packs/`](../../packs) : la clé est la ligne anglaise, la valeur la traduction. Dans une copie installée, les mêmes fichiers sont dans `BepInEx/plugins/SarahsHouseI18n/i18n/` — les modifications apparaissent après un redémarrage du jeu.
-
-Une nouvelle langue s'ajoute sans recompiler le mod — voir [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md). Les pull requests sont les bienvenues.
-
-<img src="../assets/h_game.fr.png" alt="Le jeu" height="48">
-
-**Sarah's House** est développé par **AceStudio** — le mod ne contient que la traduction, le jeu n'est pas inclus.
-
-Si la traduction vous a été utile, soutenez le développeur : achetez le jeu et laissez un avis.
-
-[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
+## Le sélecteur
 
 <div align="center">
-
-<img src="../assets/divider.png" width="560">
-
-<a href="https://github.com/elofaster/sarahs-house-i18n"><img src="../assets/star.fr.png" alt="Laisser une étoile" width="720"></a>
-
-<a href="https://github.com/elofaster"><img src="../assets/sign.png" alt="elofaster" height="66"></a>
-
-polices — SIL OFL / Apache 2.0, liste dans [THIRD-PARTY-NOTICES.md](../../THIRD-PARTY-NOTICES.md) · fonctionne sur [BepInEx](https://github.com/BepInEx/BepInEx)
-
-Sans lien avec l'auteur du jeu.
-
+  <img src="../assets/picker.jpg" width="880" alt="La roue des langues">
 </div>
+
+Souris, flèches ou manette. <kbd>Entrée</kbd> valide, <kbd>F10</kbd> ramène le sélecteur plus tard.
+
+## Si quelque chose a raté
+
+<details>
+<summary><b>Le premier démarrage est interminable</b></summary>
+
+C'est normal. BepInEx génère les assemblys pour votre copie du jeu au premier lancement, une ou deux minutes, une seule fois. Les lancements suivants sont à vitesse normale.
+</details>
+
+<details>
+<summary><b>Mon antivirus signale <code>winhttp.dll</code></b></summary>
+
+Ce fichier est le chargeur de BepInEx, standard pour les mods Unity. Restaurez-le depuis la quarantaine et ajoutez le dossier du jeu aux exclusions.
+</details>
+
+<details>
+<summary><b>Certaines lignes repassent en anglais après une mise à jour du jeu</b></summary>
+
+Les lignes nouvelles et modifiées ne sont pas encore traduites : elles s'affichent en anglais et le jeu continue normalement. La prochaine version du mod comble le manque.
+</details>
+
+<details>
+<summary><b>Comment retirer le mod ?</b></summary>
+
+Supprimez `BepInEx/plugins/SarahsHouseI18n`. Pour retirer aussi BepInEx, supprimez également `winhttp.dll`, `doorstop_config.ini` et `dotnet/`. Le jeu redevient comme à l'origine.
+</details>
+
+<p align="center"><sub>
+Les polices sont fournies sous SIL OFL et Apache 2.0. Fonctionne sur BepInEx. Traduction de fans non officielle, sans lien avec AceStudio.
+</sub></p>

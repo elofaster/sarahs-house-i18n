@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
+<img src="../assets/banner.png" alt="Sarah's House – i18n" width="920">
 
 [<kbd> English </kbd>](../../README.md)
 [<kbd> Русский </kbd>](README.ru.md)
@@ -18,21 +18,17 @@
 
 <br>
 
-[![Release](https://img.shields.io/badge/RELEASE-v3.0.0-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
-![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.11.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
+[![Release](https://img.shields.io/badge/RELEASE-v3.1.1-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
+![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.12.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
 [![BepInEx](https://img.shields.io/badge/BEPINEX-6%20IL2CPP-4a4a55?style=for-the-badge&labelColor=2b0f22)](https://github.com/BepInEx/BepInEx)
 
-本模组将 **Sarah's House** 翻译成 12 种语言。首次启动时选择语言，
-之后在主菜单按 **F10** 更换。不改动任何游戏文件。
-
-<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.zh.png" width="410" alt="下载最新版本"></a>
-<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.zh.png" width="593" alt="加入我们的 Discord"></a>
+<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/dl.png" width="500" alt="下载 v3.1.1，64.5 MB"></a> <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/dc.png" width="320" alt="加入我们的 Discord"></a>
 
 ## 💰 支持翻译 · 定制任意游戏的翻译
 
 喜欢这个翻译？欢迎通过加密货币捐助支持本项目。你也可以以 **20 美元起**的捐助**定制任意游戏的翻译**。
 
-📧 定制与联系：[novokex@gmail.com](mailto:novokex@gmail.com)
+📧 定制与联系: [novokex@gmail.com](mailto:novokex@gmail.com)
 
 | 币种 | 网络 | 地址 |
 | :---: | :---: | :--- |
@@ -43,102 +39,88 @@
 | **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
 | **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
-<img src="../assets/picker.png" alt="语言选择菜单" width="920">
-
 </div>
 
-<img src="../assets/h_install.zh.png" alt="安装" height="48">
+<div align="center">
+  <img src="../assets/game.jpg" width="880" alt="Sarah's House">
+</div>
 
-1. 从[发布页](https://github.com/elofaster/sarahs-house-i18n/releases/latest)下载 `SarahsHouse-i18n-v3.0.0.zip`。
-2. 把压缩包解压到游戏目录——`SarahsHouse.exe` 所在的位置。
-3. 启动游戏。首次启动会多花一两分钟：BepInEx 为你的拷贝做一次性配置，随后语言选择菜单会自动打开。
+模组不含游戏本体，你需要自备一份。
 
-解压后应该是这样：
+<p align="center">
+  <a href="https://store.steampowered.com/app/4712060/Sarahs_House"><img src="../assets/steam.png" width="260" alt="在 Steam 购买"></a>
+  <a href="https://ace-stud.itch.io/sarahs-house"><img src="../assets/itch.png" width="220" alt="在 itch.io 获取"></a>
+</p>
+
+## 安装
+
+1. 从[发行版页面](https://github.com/elofaster/sarahs-house-i18n/releases/latest)下载 `SarahsHouse-i18n-v3.1.1.zip`。
+2. 把压缩包解压到游戏文件夹，也就是有 `SarahsHouse.exe` 的那个。直接合并，不要多套一层：压缩包里的文件夹要落在 exe 旁边。
+3. 启动游戏。第一次启动会多花一两分钟，BepInEx 要为你的游戏副本做一次配置，之后语言选择界面会自动打开。
+
+完成后文件夹是这样的：
 
 ```text
 SarahsHouse/
-├─ SarahsHouse.exe          ← 游戏本体
-├─ winhttp.dll              ┐
-├─ doorstop_config.ini      │  来自压缩包
-├─ dotnet/                  │
-└─ BepInEx/                 ┘
+├─ SarahsHouse.exe
+├─ winhttp.dll
+├─ doorstop_config.ini
+├─ dotnet/
+└─ BepInEx/
+    └─ plugins/
+        └─ SarahsHouseI18n/
 ```
 
-<details>
-<summary>已装有 BepInEx 6 IL2CPP</summary>
-<br>
+`winhttp.dll`、`doorstop_config.ini`、`dotnet/` 和 `BepInEx/` 都来自压缩包；模组本身是最后一个文件夹。
 
-把 `SarahsHouseI18n/` 复制到 `BepInEx/plugins/` 即可。详见 [docs/INSTALL.md](../INSTALL.md)。
+<details>
+<summary><b>已经装了 BepInEx 6 IL2CPP？</b></summary>
+
+那你只需要模组：把压缩包里的 `BepInEx/plugins/SarahsHouseI18n/` 复制到你自己的 `BepInEx/plugins/`，然后启动游戏。压缩包里的其他文件都不需要，所选语言按安装记住。
 
 </details>
 
-<br>
-
-<img src="../assets/h_about.zh.png" alt="关于翻译" height="48">
-
-全部 12 种语言均由 **Claude Opus 4.8**（Anthropic）翻译——完整覆盖，每种语言约 15 000 行。
-
-翻译不是逐行进行的：模型能看到整个场景，因此台词保留了每个角色的语气。Opus 4.8 是 Anthropic 的旗舰模型，也是当今最强的翻译模型之一。
-
-<br>
-
-<img src="../assets/h_fix.zh.png" alt="遇到问题时" height="48">
-
 <details>
-<summary>首次启动特别久</summary>
-<br>
+<summary><b>以后再换语言</b></summary>
 
-这是正常的：BepInEx 在为你的游戏拷贝生成程序集。只发生一次，之后每次启动都正常。
-
-</details>
-<details>
-<summary>杀毒软件报告 <code>winhttp.dll</code></summary>
-<br>
-
-这是 BepInEx 的加载器，Unity 模组的标准组件。把文件从隔离区还原，并把游戏目录加入白名单。
-
-</details>
-<details>
-<summary>游戏更新后部分文字又变回英文</summary>
-<br>
-
-新增和改动的文本尚未翻译——它们以英文显示，游戏照常运行。等新版本发布后更新模组即可。
-
-</details>
-<details>
-<summary>如何卸载模组</summary>
-<br>
-
-删除 `BepInEx/plugins/SarahsHouseI18n` 文件夹。若想连 BepInEx 一起移除，再删除 `winhttp.dll`。游戏即恢复原样。
+在主菜单按 <kbd>F10</kbd>。选择界面会浮在场景上方，当前语言位于转轮中央，确认后文字立刻切换。
 
 </details>
 
-<br>
-
-<img src="../assets/h_translators.zh.png" alt="致翻译者" height="48">
-
-翻译包是 [`packs/`](../../packs) 里的纯 JSON 文件：键为英文原文，值为译文。已安装的拷贝中，同样的文件位于 `BepInEx/plugins/SarahsHouseI18n/i18n/`——改完重启游戏即可生效。
-
-无需重新构建模组即可添加新语言——见 [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md)。欢迎提交 Pull Request。
-
-<img src="../assets/h_game.zh.png" alt="关于游戏" height="48">
-
-**Sarah's House** 由 **AceStudio** 开发——本模组只包含翻译，不含游戏本体。
-
-如果这份翻译帮到了你，请支持开发者：购买游戏并留下评价。
-
-[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
+## 语言选择
 
 <div align="center">
-
-<img src="../assets/divider.png" width="560">
-
-<a href="https://github.com/elofaster/sarahs-house-i18n"><img src="../assets/star.zh.png" alt="点个星标" width="720"></a>
-
-<a href="https://github.com/elofaster"><img src="../assets/sign.png" alt="elofaster" height="66"></a>
-
-字体 — SIL OFL / Apache 2.0，清单见 [THIRD-PARTY-NOTICES.md](../../THIRD-PARTY-NOTICES.md) · 基于 [BepInEx](https://github.com/BepInEx/BepInEx) 运行
-
-与游戏作者无关。
-
+  <img src="../assets/picker.jpg" width="880" alt="语言转轮">
 </div>
+
+鼠标、方向键或手柄。<kbd>Enter</kbd> 确认，<kbd>F10</kbd> 之后可以再次打开。
+
+## 如果出了问题
+
+<details>
+<summary><b>第一次启动特别久</b></summary>
+
+这是正常的。第一次运行时 BepInEx 要为你的游戏副本生成程序集，一两分钟，只此一次。之后每次启动都是正常速度。
+</details>
+
+<details>
+<summary><b>杀毒软件拦截 <code>winhttp.dll</code></b></summary>
+
+这个文件是 BepInEx 加载器，所有 Unity 模组都用它。从隔离区恢复它，并把游戏文件夹加入信任列表。
+</details>
+
+<details>
+<summary><b>游戏更新后部分文字又变回英文</b></summary>
+
+新增和改动过的文本还没有翻译，会回落到英文，游戏照常运行。下一个模组版本会补上。
+</details>
+
+<details>
+<summary><b>怎么卸载模组？</b></summary>
+
+删除 `BepInEx/plugins/SarahsHouseI18n`。如果连 BepInEx 一起删掉，还要删除 `winhttp.dll`、`doorstop_config.ini` 和 `dotnet/`。游戏就回到最初的样子。
+</details>
+
+<p align="center"><sub>
+随包字体使用 SIL OFL 和 Apache 2.0 授权。基于 BepInEx 运行。非官方爱好者翻译，与 AceStudio 无关。
+</sub></p>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
+<img src="../assets/banner.png" alt="Sarah's House – i18n" width="920">
 
 [<kbd> English </kbd>](../../README.md)
 [<kbd> Русский </kbd>](README.ru.md)
@@ -18,15 +18,11 @@
 
 <br>
 
-[![Release](https://img.shields.io/badge/RELEASE-v3.0.0-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
-![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.11.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
+[![Release](https://img.shields.io/badge/RELEASE-v3.1.1-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
+![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.12.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
 [![BepInEx](https://img.shields.io/badge/BEPINEX-6%20IL2CPP-4a4a55?style=for-the-badge&labelColor=2b0f22)](https://github.com/BepInEx/BepInEx)
 
-この MOD は **Sarah's House** を 12 言語に翻訳します。言語は初回起動時に選び、
-あとからメインメニューの **F10** で変更できます。ゲームのファイルには手を加えません。
-
-<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.ja.png" width="410" alt="最新リリースをダウンロード"></a>
-<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.ja.png" width="526" alt="Discord に参加"></a>
+<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/dl.png" width="500" alt="v3.1.1 をダウンロード（64.5 MB）"></a> <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/dc.png" width="320" alt="Discord に参加する"></a>
 
 ## 💰 翻訳を支援 · 好きなゲームの翻訳を依頼
 
@@ -43,102 +39,88 @@
 | **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
 | **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
-<img src="../assets/picker.png" alt="言語選択メニュー" width="920">
-
 </div>
 
-<img src="../assets/h_install.ja.png" alt="インストール" height="48">
+<div align="center">
+  <img src="../assets/game.jpg" width="880" alt="Sarah's House">
+</div>
 
-1. [リリースページ](https://github.com/elofaster/sarahs-house-i18n/releases/latest)から `SarahsHouse-i18n-v3.0.0.zip` をダウンロード。
-2. アーカイブをゲームフォルダ（`SarahsHouse.exe` のある場所）に展開。
-3. ゲームを起動。初回だけ 1〜2 分長くかかります: BepInEx があなたのコピーに合わせて一度だけセットアップします。その後、言語選択メニューが自動で開きます。
+ゲーム本体は含まれていません。ご自分のコピーが必要です。
 
-こうなっていれば OK:
+<p align="center">
+  <a href="https://store.steampowered.com/app/4712060/Sarahs_House"><img src="../assets/steam.png" width="260" alt="Steam で購入"></a>
+  <a href="https://ace-stud.itch.io/sarahs-house"><img src="../assets/itch.png" width="220" alt="itch.io で入手"></a>
+</p>
+
+## インストール
+
+1. [リリースページ](https://github.com/elofaster/sarahs-house-i18n/releases/latest)から `SarahsHouse-i18n-v3.1.1.zip` をダウンロードします。
+2. `SarahsHouse.exe` があるゲームフォルダに解凍します。フォルダを入れ子にせず、そのまま統合してください。圧縮ファイル内のフォルダが exe の隣に並びます。
+3. ゲームを起動します。初回だけ 1〜2 分長くなります（BepInEx があなたのコピー用に一度だけ設定します）。そのあと言語選択画面が自動で開きます。
+
+終わるとフォルダはこうなります:
 
 ```text
 SarahsHouse/
-├─ SarahsHouse.exe          ← ゲーム本体
-├─ winhttp.dll              ┐
-├─ doorstop_config.ini      │  アーカイブから
-├─ dotnet/                  │
-└─ BepInEx/                 ┘
+├─ SarahsHouse.exe
+├─ winhttp.dll
+├─ doorstop_config.ini
+├─ dotnet/
+└─ BepInEx/
+    └─ plugins/
+        └─ SarahsHouseI18n/
 ```
 
-<details>
-<summary>BepInEx 6 IL2CPP を導入済みの場合</summary>
-<br>
+`winhttp.dll`、`doorstop_config.ini`、`dotnet/`、`BepInEx/` はすべて圧縮ファイルのものです。Mod 本体は最後のフォルダです。
 
-`SarahsHouseI18n/` を `BepInEx/plugins/` にコピーするだけです。詳細は [docs/INSTALL.md](../INSTALL.md)。
+<details>
+<summary><b>BepInEx 6 IL2CPP をすでに使っていますか？</b></summary>
+
+その場合は Mod だけで十分です。圧縮ファイル内の `BepInEx/plugins/SarahsHouseI18n/` を自分の `BepInEx/plugins/` にコピーしてゲームを起動してください。ほかのファイルは不要で、選んだ言語はインストールごとに記憶されます。
 
 </details>
 
-<br>
-
-<img src="../assets/h_about.ja.png" alt="翻訳について" height="48">
-
-12 言語すべてを **Claude Opus 4.8**（Anthropic）が翻訳 — 各言語およそ 15,000 行を完全翻訳。
-
-翻訳は一行ずつではありません: モデルはシーン全体を見るため、セリフは各キャラクターの声を保ちます。Opus 4.8 は Anthropic のフラッグシップモデルで、現在もっとも翻訳に強いモデルのひとつです。
-
-<br>
-
-<img src="../assets/h_fix.ja.png" alt="うまくいかないときは" height="48">
-
 <details>
-<summary>初回起動がとても長い</summary>
-<br>
+<summary><b>あとから言語を変える</b></summary>
 
-正常です: BepInEx があなたのゲームコピー用のアセンブリを生成しています。一度きりで、以降の起動は通常どおりです。
-
-</details>
-<details>
-<summary>ウイルス対策ソフトが <code>winhttp.dll</code> に反応する</summary>
-<br>
-
-Unity MOD で標準の BepInEx ローダーです。ファイルを隔離から復元し、ゲームフォルダを除外設定に追加してください。
-
-</details>
-<details>
-<summary>ゲーム更新後、一部が英語に戻った</summary>
-<br>
-
-新規・変更された行はまだ未翻訳のため英語で表示されますが、ゲームは正常に動きます。新しい版が出たら MOD を更新してください。
-
-</details>
-<details>
-<summary>MOD の削除方法</summary>
-<br>
-
-`BepInEx/plugins/SarahsHouseI18n` フォルダを削除します。BepInEx ごと外すなら `winhttp.dll` も削除。ゲームは元の状態に戻ります。
+メインメニューで <kbd>F10</kbd> を押します。現在の言語が輪の中央にある状態で選択画面がシーンの上に開き、決定するとすぐにテキストが切り替わります。
 
 </details>
 
-<br>
-
-<img src="../assets/h_translators.ja.png" alt="翻訳者の方へ" height="48">
-
-翻訳パックは [`packs/`](../../packs) にあるただの JSON です: キーが英語原文、値が訳文。インストール済みのコピーでは同じファイルが `BepInEx/plugins/SarahsHouseI18n/i18n/` にあり、編集はゲーム再起動後に反映されます。
-
-新しい言語は MOD を再ビルドせずに追加できます — 手順は [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md)。Pull Request 歓迎です。
-
-<img src="../assets/h_game.ja.png" alt="ゲームについて" height="48">
-
-**Sarah's House** は **AceStudio** の作品です — この MOD に含まれるのは翻訳のみで、ゲーム本体は含まれません。
-
-翻訳が役に立ったら、開発者を応援してください: ゲームを購入してレビューを残しましょう。
-
-[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
+## 言語選択
 
 <div align="center">
-
-<img src="../assets/divider.png" width="560">
-
-<a href="https://github.com/elofaster/sarahs-house-i18n"><img src="../assets/star.ja.png" alt="スターを残す" width="720"></a>
-
-<a href="https://github.com/elofaster"><img src="../assets/sign.png" alt="elofaster" height="66"></a>
-
-フォント — SIL OFL / Apache 2.0、一覧は [THIRD-PARTY-NOTICES.md](../../THIRD-PARTY-NOTICES.md) · [BepInEx](https://github.com/BepInEx/BepInEx) 上で動作
-
-ゲーム作者とは無関係です。
-
+  <img src="../assets/picker.jpg" width="880" alt="言語の輪">
 </div>
+
+マウス、方向キー、ゲームパッドに対応。<kbd>Enter</kbd> で決定、<kbd>F10</kbd> でいつでも呼び出せます。
+
+## うまくいかないとき
+
+<details>
+<summary><b>初回起動がとても長い</b></summary>
+
+これは正常です。初回だけ BepInEx がゲームのコピー用にアセンブリを生成するため、1〜2 分かかります。2 回目以降は通常の速さです。
+</details>
+
+<details>
+<summary><b>ウイルス対策が <code>winhttp.dll</code> を検出する</b></summary>
+
+このファイルは BepInEx のローダーで、Unity の Mod では一般的なものです。隔離から復元し、ゲームフォルダを除外に追加してください。
+</details>
+
+<details>
+<summary><b>ゲーム更新後、一部の文章が英語に戻った</b></summary>
+
+新しく変わった行はまだ未訳のため英語で表示されますが、ゲームは普通に動きます。次の Mod の更新で埋まります。
+</details>
+
+<details>
+<summary><b>Mod を削除するには？</b></summary>
+
+`BepInEx/plugins/SarahsHouseI18n` を削除します。BepInEx も消すなら `winhttp.dll`、`doorstop_config.ini`、`dotnet/` も削除してください。ゲームは元の状態に戻ります。
+</details>
+
+<p align="center"><sub>
+フォントは SIL OFL と Apache 2.0 で同梱しています。BepInEx 上で動作します。非公式のファン翻訳で、AceStudio とは関係ありません。
+</sub></p>

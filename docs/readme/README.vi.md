@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
+<img src="../assets/banner.png" alt="Sarah's House – i18n" width="920">
 
 [<kbd> English </kbd>](../../README.md)
 [<kbd> Русский </kbd>](README.ru.md)
@@ -18,15 +18,11 @@
 
 <br>
 
-[![Release](https://img.shields.io/badge/RELEASE-v3.0.0-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
-![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.11.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
+[![Release](https://img.shields.io/badge/RELEASE-v3.1.1-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
+![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.12.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
 [![BepInEx](https://img.shields.io/badge/BEPINEX-6%20IL2CPP-4a4a55?style=for-the-badge&labelColor=2b0f22)](https://github.com/BepInEx/BepInEx)
 
-Mod dịch **Sarah's House** sang 12 ngôn ngữ. Ngôn ngữ được chọn ở lần chạy đầu,
-sau đó đổi bằng **F10** trong menu chính. Mod không đụng vào file game.
-
-<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.vi.png" width="410" alt="Tải bản mới nhất"></a>
-<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.vi.png" width="611" alt="Tham gia Discord"></a>
+<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/dl.png" width="500" alt="Tải v3.1.1, 64,5 MB"></a> <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/dc.png" width="320" alt="Tham gia Discord của chúng tôi"></a>
 
 ## 💰 Ủng hộ bản dịch · Đặt dịch bất kỳ game nào
 
@@ -43,102 +39,88 @@ Nếu bạn thích bản dịch này, hãy ủng hộ dự án bằng tiền mã
 | **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
 | **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
-<img src="../assets/picker.png" alt="menu chọn ngôn ngữ" width="920">
-
 </div>
 
-<img src="../assets/h_install.vi.png" alt="Cài đặt" height="48">
+<div align="center">
+  <img src="../assets/game.jpg" width="880" alt="Sarah's House">
+</div>
 
-1. Tải `SarahsHouse-i18n-v3.0.0.zip` từ [trang phát hành](https://github.com/elofaster/sarahs-house-i18n/releases/latest).
-2. Giải nén vào thư mục game — nơi có `SarahsHouse.exe`.
-3. Khởi động game. Lần chạy đầu lâu hơn bình thường một-hai phút: BepInEx tự thiết lập một lần cho bản của bạn. Sau đó menu chọn ngôn ngữ tự mở.
+Bản mod không kèm game. Bạn cần bản game của riêng mình.
 
-Kết quả sẽ như thế này:
+<p align="center">
+  <a href="https://store.steampowered.com/app/4712060/Sarahs_House"><img src="../assets/steam.png" width="260" alt="Mua trên Steam"></a>
+  <a href="https://ace-stud.itch.io/sarahs-house"><img src="../assets/itch.png" width="220" alt="Tải trên itch.io"></a>
+</p>
+
+## Cài đặt
+
+1. Tải `SarahsHouse-i18n-v3.1.1.zip` ở [trang phát hành](https://github.com/elofaster/sarahs-house-i18n/releases/latest).
+2. Giải nén vào thư mục game, thư mục có tệp `SarahsHouse.exe`. Gộp vào, đừng lồng thêm thư mục: các thư mục trong tệp nén nằm ngay cạnh exe.
+3. Mở game. Lần chạy đầu lâu hơn một hai phút vì BepInEx tự cài cho bản game của bạn một lần, sau đó bảng chọn ngôn ngữ tự mở.
+
+Sau đó thư mục sẽ như thế này:
 
 ```text
 SarahsHouse/
-├─ SarahsHouse.exe          ← game
-├─ winhttp.dll              ┐
-├─ doorstop_config.ini      │  từ file nén
-├─ dotnet/                  │
-└─ BepInEx/                 ┘
+├─ SarahsHouse.exe
+├─ winhttp.dll
+├─ doorstop_config.ini
+├─ dotnet/
+└─ BepInEx/
+    └─ plugins/
+        └─ SarahsHouseI18n/
 ```
 
-<details>
-<summary>Đã có sẵn BepInEx 6 IL2CPP</summary>
-<br>
+`winhttp.dll`, `doorstop_config.ini`, `dotnet/` và `BepInEx/` đều lấy từ tệp nén; bản mod là thư mục cuối.
 
-Chỉ cần chép `SarahsHouseI18n/` vào `BepInEx/plugins/`. Chi tiết: [docs/INSTALL.md](../INSTALL.md).
+<details>
+<summary><b>Đã có sẵn BepInEx 6 IL2CPP?</b></summary>
+
+Vậy bạn chỉ cần bản mod: chép `BepInEx/plugins/SarahsHouseI18n/` từ tệp nén vào `BepInEx/plugins/` của bạn rồi mở game. Không cần gì khác trong tệp nén, và ngôn ngữ bạn chọn được nhớ cho từng bản cài.
 
 </details>
 
-<br>
-
-<img src="../assets/h_about.vi.png" alt="Về bản dịch" height="48">
-
-Cả 12 ngôn ngữ đều do mô hình **Claude Opus 4.8** (Anthropic) dịch — trọn vẹn, khoảng 15 000 dòng mỗi ngôn ngữ.
-
-Bản dịch không làm theo từng dòng: mô hình nhìn cả phân cảnh, nên lời thoại giữ đúng cá tính nhân vật. Opus 4.8 là mô hình chủ lực của Anthropic và là một trong những mô hình dịch mạnh nhất hiện nay.
-
-<br>
-
-<img src="../assets/h_fix.vi.png" alt="Nếu có gì trục trặc" height="48">
-
 <details>
-<summary>Lần chạy đầu rất lâu</summary>
-<br>
+<summary><b>Đổi ngôn ngữ về sau</b></summary>
 
-Đúng như vậy: BepInEx đang sinh assembly cho bản game của bạn. Việc này chỉ diễn ra một lần — các lần sau khởi động bình thường.
-
-</details>
-<details>
-<summary>Phần mềm diệt vi-rút phàn nàn về <code>winhttp.dll</code></summary>
-<br>
-
-Đó là bộ nạp của BepInEx, tiêu chuẩn với mod Unity. Khôi phục file khỏi vùng cách ly và thêm thư mục game vào ngoại lệ.
-
-</details>
-<details>
-<summary>Sau khi game cập nhật, một phần chữ lại là tiếng Anh</summary>
-<br>
-
-Các dòng mới và bị đổi chưa được dịch — chúng hiện bằng tiếng Anh, game vẫn chạy bình thường. Cập nhật mod khi có bản mới.
-
-</details>
-<details>
-<summary>Cách gỡ mod</summary>
-<br>
-
-Xoá thư mục `BepInEx/plugins/SarahsHouseI18n`. Muốn gỡ cả BepInEx thì xoá thêm `winhttp.dll`. Game trở về trạng thái ban đầu.
+Nhấn <kbd>F10</kbd> ở menu chính. Bảng chọn mở trên cảnh, ngôn ngữ hiện tại nằm giữa vòng xoay, và khi xác nhận thì văn bản đổi ngay.
 
 </details>
 
-<br>
-
-<img src="../assets/h_translators.vi.png" alt="Dành cho người dịch" height="48">
-
-Các gói dịch là file JSON thuần trong [`packs/`](../../packs): khoá là câu tiếng Anh, giá trị là bản dịch. Ở bản đã cài, chính các file đó nằm trong `BepInEx/plugins/SarahsHouseI18n/i18n/` — sửa xong khởi động lại game là thấy.
-
-Có thể thêm ngôn ngữ mới mà không cần build lại mod — hướng dẫn: [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md). Hoan nghênh pull request.
-
-<img src="../assets/h_game.vi.png" alt="Trò chơi" height="48">
-
-**Sarah's House** do **AceStudio** phát triển — mod chỉ chứa bản dịch, không kèm theo game.
-
-Nếu bản dịch hữu ích với bạn, hãy ủng hộ nhà phát triển: mua game và để lại đánh giá.
-
-[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
+## Bảng chọn ngôn ngữ
 
 <div align="center">
-
-<img src="../assets/divider.png" width="560">
-
-<a href="https://github.com/elofaster/sarahs-house-i18n"><img src="../assets/star.vi.png" alt="Để lại một ngôi sao" width="720"></a>
-
-<a href="https://github.com/elofaster"><img src="../assets/sign.png" alt="elofaster" height="66"></a>
-
-phông chữ — SIL OFL / Apache 2.0, danh sách: [THIRD-PARTY-NOTICES.md](../../THIRD-PARTY-NOTICES.md) · chạy trên [BepInEx](https://github.com/BepInEx/BepInEx)
-
-Tôi không liên quan đến tác giả game.
-
+  <img src="../assets/picker.jpg" width="880" alt="Vòng xoay ngôn ngữ">
 </div>
+
+Chuột, phím mũi tên hoặc tay cầm. <kbd>Enter</kbd> xác nhận, <kbd>F10</kbd> mở lại bảng chọn về sau.
+
+## Nếu có gì đó không ổn
+
+<details>
+<summary><b>Lần chạy đầu lâu như không bao giờ xong</b></summary>
+
+Đây là bình thường. Lần đầu BepInEx tạo assembly cho bản game của bạn, một hai phút, chỉ một lần. Những lần sau chạy với tốc độ bình thường.
+</details>
+
+<details>
+<summary><b>Trình diệt virus báo <code>winhttp.dll</code></b></summary>
+
+Tệp đó là bộ nạp BepInEx, chuẩn với mọi bản mod Unity. Khôi phục nó khỏi vùng cách ly và thêm thư mục game vào danh sách loại trừ.
+</details>
+
+<details>
+<summary><b>Sau khi game cập nhật, vài dòng quay lại tiếng Anh</b></summary>
+
+Các dòng mới và dòng đã đổi chưa được dịch nên hiển thị bằng tiếng Anh, game vẫn chạy bình thường. Bản mod tiếp theo sẽ lấp chỗ trống.
+</details>
+
+<details>
+<summary><b>Làm sao gỡ bản mod?</b></summary>
+
+Xóa thư mục `BepInEx/plugins/SarahsHouseI18n`. Nếu muốn gỡ cả BepInEx thì xóa thêm `winhttp.dll`, `doorstop_config.ini` và `dotnet/`. Game trở về như ban đầu.
+</details>
+
+<p align="center"><sub>
+Phông chữ đi kèm theo giấy phép SIL OFL và Apache 2.0. Chạy trên BepInEx. Bản dịch của người hâm mộ, không liên quan tới AceStudio.
+</sub></p>

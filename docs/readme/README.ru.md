@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.png" alt="Sarah's House — i18n" width="920">
+<img src="../assets/banner.png" alt="Sarah's House – i18n" width="920">
 
 [<kbd> English </kbd>](../../README.md)
 <kbd> ● Русский </kbd>
@@ -18,15 +18,11 @@
 
 <br>
 
-[![Release](https://img.shields.io/badge/RELEASE-v3.0.0-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
-![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.11.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
+[![Release](https://img.shields.io/badge/RELEASE-v3.1.1-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
+![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.12.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
 [![BepInEx](https://img.shields.io/badge/BEPINEX-6%20IL2CPP-4a4a55?style=for-the-badge&labelColor=2b0f22)](https://github.com/BepInEx/BepInEx)
 
-Мод переводит **Sarah's House** на 12 языков. Язык выбирается при первом запуске,
-дальше меняется по **F10** в главном меню. Файлы игры мод не трогает.
-
-<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/btn_download.ru.png" width="410" alt="Скачать последний релиз"></a>
-<a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/btn_discord.ru.png" width="675" alt="Наш Discord-сервер"></a>
+<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/dl.png" width="500" alt="Скачать v3.1.1, 64,5 МБ"></a> <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/dc.png" width="320" alt="Наш Discord"></a>
 
 ## 💰 Поддержать переводы · Заказать перевод любой игры
 
@@ -43,102 +39,88 @@
 | **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
 | **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
 
-<img src="../assets/picker.png" alt="меню выбора языка" width="920">
-
 </div>
 
-<img src="../assets/h_install.ru.png" alt="Установка" height="48">
+<div align="center">
+  <img src="../assets/game.jpg" width="880" alt="Sarah's House">
+</div>
 
-1. Скачайте `SarahsHouse-i18n-v3.0.0.zip` со [страницы релизов](https://github.com/elofaster/sarahs-house-i18n/releases/latest).
-2. Распакуйте архив в папку игры — туда, где лежит `SarahsHouse.exe`.
-3. Запустите игру. Первый запуск дольше обычного, минута-две: BepInEx один раз настраивается под вашу копию. Дальше меню выбора языка откроется само.
+Игры в архиве нет. Нужна своя копия.
 
-Должно получиться так:
+<p align="center">
+  <a href="https://store.steampowered.com/app/4712060/Sarahs_House"><img src="../assets/steam.png" width="260" alt="Купить в Steam"></a>
+  <a href="https://ace-stud.itch.io/sarahs-house"><img src="../assets/itch.png" width="220" alt="Забрать на itch.io"></a>
+</p>
+
+## Установка
+
+1. Скачайте `SarahsHouse-i18n-v3.1.1.zip` со [страницы релизов](https://github.com/elofaster/sarahs-house-i18n/releases/latest).
+2. Распакуйте архив в папку игры, туда, где лежит `SarahsHouse.exe`. Именно слить, а не вложить: папки из архива встают рядом с exe.
+3. Запустите игру. Первый запуск идёт на минуту-две дольше: BepInEx один раз настраивается под вашу копию. Потом меню выбора языка откроется само.
+
+В итоге папка выглядит так:
 
 ```text
 SarahsHouse/
-├─ SarahsHouse.exe          ← игра
-├─ winhttp.dll              ┐
-├─ doorstop_config.ini      │  из архива
-├─ dotnet/                  │
-└─ BepInEx/                 ┘
+├─ SarahsHouse.exe
+├─ winhttp.dll
+├─ doorstop_config.ini
+├─ dotnet/
+└─ BepInEx/
+    └─ plugins/
+        └─ SarahsHouseI18n/
 ```
 
-<details>
-<summary>Уже стоит BepInEx 6 IL2CPP</summary>
-<br>
+`winhttp.dll`, `doorstop_config.ini`, `dotnet/` и `BepInEx/` берутся из архива, сам мод это последняя папка.
 
-Достаточно скопировать `SarahsHouseI18n/` в `BepInEx/plugins/`. Подробности — в [docs/INSTALL.md](../INSTALL.md).
+<details>
+<summary><b>Уже стоит BepInEx 6 IL2CPP?</b></summary>
+
+Тогда нужен только мод: скопируйте `BepInEx/plugins/SarahsHouseI18n/` из архива в свою папку `BepInEx/plugins/` и запускайте игру. Остальное из архива не нужно, а выбранный язык запоминается для каждой установки.
 
 </details>
 
-<br>
-
-<img src="../assets/h_about.ru.png" alt="О переводе" height="48">
-
-Все 12 языков переведены моделью **Claude Opus 4.8** (Anthropic) — целиком, около 15 000 строк на каждый язык.
-
-Перевод делался не построчно: модель видит сцену целиком, поэтому реплики держат характер персонажей. Opus 4.8 — флагманская модель Anthropic, одна из сильнейших в переводе на сегодня.
-
-<br>
-
-<img src="../assets/h_fix.ru.png" alt="Если что-то пошло не так" height="48">
-
 <details>
-<summary>Первый запуск очень долгий</summary>
-<br>
+<summary><b>Сменить язык позже</b></summary>
 
-Так и должно быть: BepInEx генерирует сборки под вашу копию игры. Это разовая операция, все следующие запуски — обычные.
-
-</details>
-<details>
-<summary>Антивирус ругается на <code>winhttp.dll</code></summary>
-<br>
-
-Это загрузчик BepInEx, стандартный для Unity-модов. Верните файл из карантина и добавьте папку игры в исключения.
-
-</details>
-<details>
-<summary>После обновления игры часть текста снова на английском</summary>
-<br>
-
-Новые и изменённые строки ещё не переведены — они показываются на английском, игра при этом работает нормально. Обновите мод, когда выйдет свежая версия.
-
-</details>
-<details>
-<summary>Как удалить мод</summary>
-<br>
-
-Удалите папку `BepInEx/plugins/SarahsHouseI18n`. Если хотите убрать и сам BepInEx — удалите ещё `winhttp.dll`. Игра вернётся в исходное состояние.
+Нажмите <kbd>F10</kbd> в главном меню. Пикер открывается поверх сцены, текущий язык стоит в середине колеса, и после подтверждения текст меняется сразу.
 
 </details>
 
-<br>
-
-<img src="../assets/h_translators.ru.png" alt="Переводчикам" height="48">
-
-Пакеты переводов — обычные JSON в [`packs/`](../../packs): ключ — английская строка, значение — перевод. В установленном моде те же файлы лежат в `BepInEx/plugins/SarahsHouseI18n/i18n/` — правка видна после перезапуска игры.
-
-Новый язык добавляется без пересборки мода — инструкция в [docs/ADD-LANGUAGE.md](../ADD-LANGUAGE.md). Пулреквесты приветствуются.
-
-<img src="../assets/h_game.ru.png" alt="Игра" height="48">
-
-**Sarah's House** делает **AceStudio** — мод содержит только перевод, сама игра в него не входит.
-
-Если перевод оказался полезен, поддержите разработчика: купите игру и оставьте отзыв.
-
-[Steam](https://store.steampowered.com/app/4712060/Sarahs_House) · [itch.io](https://ace-stud.itch.io/sarahs-house)
+## Выбор языка
 
 <div align="center">
-
-<img src="../assets/divider.png" width="560">
-
-<a href="https://github.com/elofaster/sarahs-house-i18n"><img src="../assets/star.ru.png" alt="Поставь звезду" width="720"></a>
-
-<a href="https://github.com/elofaster"><img src="../assets/sign.png" alt="elofaster" height="66"></a>
-
-шрифты — SIL OFL / Apache 2.0, список в [THIRD-PARTY-NOTICES.md](../../THIRD-PARTY-NOTICES.md) · работает на [BepInEx](https://github.com/BepInEx/BepInEx)
-
-К автору игры отношения не имею.
-
+  <img src="../assets/picker.jpg" width="880" alt="Колесо языков">
 </div>
+
+Мышь, стрелки или геймпад. <kbd>Enter</kbd> подтверждает, <kbd>F10</kbd> открывает пикер снова.
+
+## Если что-то пошло не так
+
+<details>
+<summary><b>Первый запуск тянется очень долго</b></summary>
+
+Так и должно быть. BepInEx при первом запуске собирает сборки под вашу копию игры, минута-две, один раз. Все следующие запуски идут с обычной скоростью.
+</details>
+
+<details>
+<summary><b>Антивирус ругается на <code>winhttp.dll</code></b></summary>
+
+Это загрузчик BepInEx, он стандартный для модов на Unity. Верните файл из карантина и добавьте папку игры в исключения.
+</details>
+
+<details>
+<summary><b>После обновления игры часть строк снова на английском</b></summary>
+
+Новые и изменённые строки ещё не переведены, поэтому показываются на английском, а игра работает как обычно. Следующий релиз мода это закроет.
+</details>
+
+<details>
+<summary><b>Как убрать мод?</b></summary>
+
+Удалите `BepInEx/plugins/SarahsHouseI18n`. Если убрать и BepInEx, удалите ещё `winhttp.dll`, `doorstop_config.ini` и `dotnet/`. Игра вернётся к исходному виду.
+</details>
+
+<p align="center"><sub>
+Шрифты поставляются по лицензиям SIL OFL и Apache 2.0. Работает на BepInEx. Неофициальный фанатский перевод, к AceStudio отношения не имеет.
+</sub></p>

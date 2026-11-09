@@ -24,21 +24,6 @@
 
 <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/dl.png" width="500" alt="v3.1.1 indir, 64,5 MB"></a> <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/dc.png" width="320" alt="Discord'umuza katıl"></a>
 
-## 💰 Çevirilere destek ol · Herhangi bir oyunun çevirisini sipariş et
-
-Bu çeviriyi beğendiysen projeyi kripto bağışıyla destekleyebilirsin. Ayrıca **20 $ ve üzeri** bir bağışla **herhangi bir oyunun çevirisini** sipariş edebilirsin.
-
-📧 Sipariş ve iletişim: [novokex@gmail.com](mailto:novokex@gmail.com)
-
-| Coin | Ağ | Adres |
-| :---: | :---: | :--- |
-| **USDT** | TON | `UQDweoL-JmiDeyVCxIybr9NsH-4Ojnw9zplipMRLZGafX3jd` |
-| **USDT** | TRON (TRC-20) | `TKWAByL6koBMLt6XZoasqVc2zxEtiCGxWL` |
-| **USDT** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDT** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-| **USDC** | Ethereum (ERC-20) | `0x4718619DA946Aa243bedF9D22b90930f034567b3` |
-| **USDC** | Solana | `HnzTfY39D2a1jbfS2mD1NV3SnaypW54KiGa54xbCGdJx` |
-
 </div>
 
 <div align="center">

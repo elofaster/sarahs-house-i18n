@@ -1,43 +1,24 @@
-<div align="center">
+<p align="center">
+  <img src="../assets/readme/sky.ko.svg" width="100%" alt="Sarah's House i18n: 12개 언어. 비공식 팬 번역. v3.1.1 · Sarah's House v0.12.6용">
+</p>
 
-<img src="../assets/banner.png" alt="Sarah's House – i18n" width="920">
+<p align="center">
+  <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/readme/download.ko.svg" height="56" alt="v3.1.1 다운로드 (64.5 MB)"></a>
+  &nbsp;
+  <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/readme/discord.svg" height="56" alt="디스코드 참여하기"></a>
+</p>
 
-[<kbd> English </kbd>](../../README.md)
-[<kbd> Русский </kbd>](README.ru.md)
-[<kbd> Українська </kbd>](README.uk.md)
-[<kbd> Deutsch </kbd>](README.de.md)
-[<kbd> Español </kbd>](README.es.md)
-[<kbd> Français </kbd>](README.fr.md)
-[<kbd> Polski </kbd>](README.pl.md)
-[<kbd> Português </kbd>](README.pt.md)
-[<kbd> Türkçe </kbd>](README.tr.md)
-[<kbd> Tiếng Việt </kbd>](README.vi.md)
-[<kbd> 中文 </kbd>](README.zh.md)
-[<kbd> 日本語 </kbd>](README.ja.md)
-<kbd> ● 한국어 </kbd>
+<p align="center">
+<a href="../../README.md">English</a> &nbsp;✦&nbsp; <a href="README.ru.md">Русский</a> &nbsp;✦&nbsp; <a href="README.uk.md">Українська</a> &nbsp;✦&nbsp; <a href="README.de.md">Deutsch</a> &nbsp;✦&nbsp; <a href="README.es.md">Español</a> &nbsp;✦&nbsp; <a href="README.fr.md">Français</a> &nbsp;✦&nbsp; <a href="README.pl.md">Polski</a> &nbsp;✦&nbsp; <a href="README.pt.md">Português</a> &nbsp;✦&nbsp; <a href="README.tr.md">Türkçe</a> &nbsp;✦&nbsp; <a href="README.vi.md">Tiếng&nbsp;Việt</a> &nbsp;✦&nbsp; <a href="README.zh.md">中⁠文</a> &nbsp;✦&nbsp; <a href="README.ja.md">日⁠本⁠語</a> &nbsp;✦&nbsp; <b>한⁠국⁠어</b>
+</p>
 
 <br>
 
-[![Release](https://img.shields.io/badge/RELEASE-v3.1.1-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
-![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.12.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
-[![BepInEx](https://img.shields.io/badge/BEPINEX-6%20IL2CPP-4a4a55?style=for-the-badge&labelColor=2b0f22)](https://github.com/BepInEx/BepInEx)
+<img src="../assets/game.jpg" width="100%" alt="Sarah's House">
 
-<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/dl.png" width="500" alt="v3.1.1 다운로드 (64.5 MB)"></a> <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/dc.png" width="320" alt="디스코드 참여하기"></a>
+<p align="center"><sub>게임 본편은 포함되어 있지 않습니다. 직접 준비한 게임이 필요합니다. <a href="https://store.steampowered.com/app/4712060/Sarahs_House" title="Steam에서 구매">Steam</a> · <a href="https://ace-stud.itch.io/sarahs-house" title="itch.io에서 받기">itch.io</a></sub></p>
 
-</div>
-
-<div align="center">
-  <img src="../assets/game.jpg" width="880" alt="Sarah's House">
-</div>
-
-게임 본편은 포함되어 있지 않습니다. 직접 준비한 게임이 필요합니다.
-
-<p align="center">
-  <a href="https://store.steampowered.com/app/4712060/Sarahs_House"><img src="../assets/steam.png" width="260" alt="Steam에서 구매"></a>
-  <a href="https://ace-stud.itch.io/sarahs-house"><img src="../assets/itch.png" width="220" alt="itch.io에서 받기"></a>
-</p>
-
-## 설치
+## ✦ 설치
 
 1. [릴리스 페이지](https://github.com/elofaster/sarahs-house-i18n/releases/latest)에서 `SarahsHouse-i18n-v3.1.1.zip`을 내려받습니다.
 2. `SarahsHouse.exe`가 있는 게임 폴더에 압축을 풉니다. 폴더를 겹치지 말고 그대로 합치세요. 압축 파일 안의 폴더가 exe 옆에 놓입니다.
@@ -72,15 +53,13 @@ SarahsHouse/
 
 </details>
 
-## 언어 선택
+## ✦ 언어 선택
 
-<div align="center">
-  <img src="../assets/picker.jpg" width="880" alt="언어 바퀴">
-</div>
+<img src="../assets/picker.jpg" width="100%" alt="언어 바퀴">
 
 마우스, 방향키, 게임패드를 지원합니다. <kbd>Enter</kbd>로 확인하고 <kbd>F10</kbd>으로 다시 불러올 수 있습니다.
 
-## 문제가 생겼다면
+## ✦ 문제가 생겼다면
 
 <details>
 <summary><b>첫 실행이 끝나지 않을 만큼 오래 걸립니다</b></summary>
@@ -106,6 +85,9 @@ SarahsHouse/
 `BepInEx/plugins/SarahsHouseI18n`을 삭제합니다. BepInEx까지 지우려면 `winhttp.dll`, `doorstop_config.ini`, `dotnet/`도 삭제하세요. 게임은 처음 상태로 돌아갑니다.
 </details>
 
+---
+
 <p align="center"><sub>
+v3.1.1 · Sarah's House v0.12.6 · <a href="https://github.com/BepInEx/BepInEx">BepInEx</a> 6 IL2CPP<br>
 폰트는 SIL OFL과 Apache 2.0으로 함께 제공됩니다. BepInEx에서 동작합니다. 비공식 팬 번역이며 AceStudio와 무관합니다.
 </sub></p>

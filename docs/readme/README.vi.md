@@ -1,43 +1,24 @@
-<div align="center">
+<p align="center">
+  <img src="../assets/readme/sky.vi.svg" width="100%" alt="Sarah's House i18n: 12 ngôn ngữ. Bản dịch không chính thức của người hâm mộ. v3.1.1 · cho Sarah's House v0.12.6">
+</p>
 
-<img src="../assets/banner.png" alt="Sarah's House – i18n" width="920">
+<p align="center">
+  <a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/readme/download.vi.svg" height="56" alt="Tải v3.1.1, 64,5 MB"></a>
+  &nbsp;
+  <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/readme/discord.svg" height="56" alt="Tham gia Discord của chúng tôi"></a>
+</p>
 
-[<kbd> English </kbd>](../../README.md)
-[<kbd> Русский </kbd>](README.ru.md)
-[<kbd> Українська </kbd>](README.uk.md)
-[<kbd> Deutsch </kbd>](README.de.md)
-[<kbd> Español </kbd>](README.es.md)
-[<kbd> Français </kbd>](README.fr.md)
-[<kbd> Polski </kbd>](README.pl.md)
-[<kbd> Português </kbd>](README.pt.md)
-[<kbd> Türkçe </kbd>](README.tr.md)
-<kbd> ● Tiếng Việt </kbd>
-[<kbd> 中文 </kbd>](README.zh.md)
-[<kbd> 日本語 </kbd>](README.ja.md)
-[<kbd> 한국어 </kbd>](README.ko.md)
+<p align="center">
+<a href="../../README.md">English</a> &nbsp;✦&nbsp; <a href="README.ru.md">Русский</a> &nbsp;✦&nbsp; <a href="README.uk.md">Українська</a> &nbsp;✦&nbsp; <a href="README.de.md">Deutsch</a> &nbsp;✦&nbsp; <a href="README.es.md">Español</a> &nbsp;✦&nbsp; <a href="README.fr.md">Français</a> &nbsp;✦&nbsp; <a href="README.pl.md">Polski</a> &nbsp;✦&nbsp; <a href="README.pt.md">Português</a> &nbsp;✦&nbsp; <a href="README.tr.md">Türkçe</a> &nbsp;✦&nbsp; <b>Tiếng&nbsp;Việt</b> &nbsp;✦&nbsp; <a href="README.zh.md">中⁠文</a> &nbsp;✦&nbsp; <a href="README.ja.md">日⁠本⁠語</a> &nbsp;✦&nbsp; <a href="README.ko.md">한⁠국⁠어</a>
+</p>
 
 <br>
 
-[![Release](https://img.shields.io/badge/RELEASE-v3.1.1-ff69b4?style=for-the-badge&labelColor=2b0f22)](https://github.com/elofaster/sarahs-house-i18n/releases/latest)
-![Game](https://img.shields.io/badge/SARAH%27S%20HOUSE-v0.12.6-8a5cf5?style=for-the-badge&labelColor=2b0f22)
-[![BepInEx](https://img.shields.io/badge/BEPINEX-6%20IL2CPP-4a4a55?style=for-the-badge&labelColor=2b0f22)](https://github.com/BepInEx/BepInEx)
+<img src="../assets/game.jpg" width="100%" alt="Sarah's House">
 
-<a href="https://github.com/elofaster/sarahs-house-i18n/releases/latest"><img src="../assets/dl.png" width="500" alt="Tải v3.1.1, 64,5 MB"></a> <a href="https://discord.gg/FXsWMq9Rv7"><img src="../assets/dc.png" width="320" alt="Tham gia Discord của chúng tôi"></a>
+<p align="center"><sub>Bản mod không kèm game. Bạn cần bản game của riêng mình. <a href="https://store.steampowered.com/app/4712060/Sarahs_House" title="Mua trên Steam">Steam</a> · <a href="https://ace-stud.itch.io/sarahs-house" title="Tải trên itch.io">itch.io</a></sub></p>
 
-</div>
-
-<div align="center">
-  <img src="../assets/game.jpg" width="880" alt="Sarah's House">
-</div>
-
-Bản mod không kèm game. Bạn cần bản game của riêng mình.
-
-<p align="center">
-  <a href="https://store.steampowered.com/app/4712060/Sarahs_House"><img src="../assets/steam.png" width="260" alt="Mua trên Steam"></a>
-  <a href="https://ace-stud.itch.io/sarahs-house"><img src="../assets/itch.png" width="220" alt="Tải trên itch.io"></a>
-</p>
-
-## Cài đặt
+## ✦ Cài đặt
 
 1. Tải `SarahsHouse-i18n-v3.1.1.zip` ở [trang phát hành](https://github.com/elofaster/sarahs-house-i18n/releases/latest).
 2. Giải nén vào thư mục game, thư mục có tệp `SarahsHouse.exe`. Gộp vào, đừng lồng thêm thư mục: các thư mục trong tệp nén nằm ngay cạnh exe.
@@ -72,15 +53,13 @@ Nhấn <kbd>F10</kbd> ở menu chính. Bảng chọn mở trên cảnh, ngôn ng
 
 </details>
 
-## Bảng chọn ngôn ngữ
+## ✦ Bảng chọn ngôn ngữ
 
-<div align="center">
-  <img src="../assets/picker.jpg" width="880" alt="Vòng xoay ngôn ngữ">
-</div>
+<img src="../assets/picker.jpg" width="100%" alt="Vòng xoay ngôn ngữ">
 
 Chuột, phím mũi tên hoặc tay cầm. <kbd>Enter</kbd> xác nhận, <kbd>F10</kbd> mở lại bảng chọn về sau.
 
-## Nếu có gì đó không ổn
+## ✦ Nếu có gì đó không ổn
 
 <details>
 <summary><b>Lần chạy đầu lâu như không bao giờ xong</b></summary>
@@ -106,6 +85,9 @@ Các dòng mới và dòng đã đổi chưa được dịch nên hiển thị b
 Xóa thư mục `BepInEx/plugins/SarahsHouseI18n`. Nếu muốn gỡ cả BepInEx thì xóa thêm `winhttp.dll`, `doorstop_config.ini` và `dotnet/`. Game trở về như ban đầu.
 </details>
 
+---
+
 <p align="center"><sub>
+v3.1.1 · Sarah's House v0.12.6 · <a href="https://github.com/BepInEx/BepInEx">BepInEx</a> 6 IL2CPP<br>
 Phông chữ đi kèm theo giấy phép SIL OFL và Apache 2.0. Chạy trên BepInEx. Bản dịch của người hâm mộ, không liên quan tới AceStudio.
 </sub></p>
